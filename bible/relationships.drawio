@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram id="relationships" name="Relationships">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="little_red_riding_hood" value="Little Red Riding Hood" style="rounded=1;whiteSpace=wrap;html=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wolf" value="The Wolf" style="rounded=1;whiteSpace=wrap;html=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="influence" value="Concealed predation; adaptable offers of help" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;exitY=0;entryY=0;" edge="1" parent="1" source="wolf" target="little_red_riding_hood">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="discernment" value="Provisional trust, questions, and possible refusal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;exitY=1;entryY=1;" edge="1" parent="1" source="little_red_riding_hood" target="wolf">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
