@@ -9,10 +9,10 @@ and dramatic foundations. Season 1 is the current writing assignment.
 
 - `bible/`: project, cast, world rules, themes, dramatic arcs, and relationships.
 - `bible/characters/little_red_riding_hood/` and `bible/characters/wolf/`: the two
-  complete profiles, each with appearance, personality, interior voice, wants,
-  fears, secrets, and lexicon files.
-- `Script/Season_01/Episode_01/Scene_01/Beat_01/`: the existing writing hierarchy,
-  currently containing outline templates and an empty leaf.
+  complete profiles, each organized by the director’s [seven character
+  dimensions](bible/README.md#the-directors-seven-character-dimensions).
+- `Script/season_template/Season_N/Episode_N/script.md`: a blank episode manuscript
+  containing all its scenes and beats; [Script guide](Script/README.md) holds the generic template.
 - `AGENTS.md`: instructions for agents working in this project.
 
 ## Manual Creative-Writer Handoff
@@ -28,22 +28,36 @@ clones and must be supplied separately when testing from another checkout.
 Relative links in that Markdown file resolve from its own directory; repository
 paths in agent instructions resolve from the project root.
 
+## Runtime Compatibility
+
+This bible now uses the director’s seven character dimensions. The current
+creative-writer runtime still names and validates the former profile filenames
+in `prompts.py` and `artifact_validation.py`. Its character-file contract must be
+adapted before an automated run can accept this structure. The runtime update
+is pending; the profiles are ready for manual reading and development.
+
+## Markdown Script Template
+
+The [Script guide](Script/README.md) holds the generic Markdown template and
+formatting conventions. [Episode N](Script/season_template/Season_N/Episode_N/script.md)
+is a blank manuscript with front matter, act and scene headings, character cues,
+dialogue, directions, and an internal beat marker. Each episode document contains
+all its scenes and beats. The manuscript scaffold remains neutral until story writing begins.
+
 ## Writing and Performance Materials
 
-Develop the [season outline](Script/Season_01/README.md) and
-[episode outline](Script/Season_01/Episode_01/README.md) through the writing
+Develop the [season outline](Script/season_template/Season_N/README.md) and
+[episode outline](Script/season_template/Season_N/Episode_N/README.md) through the writing
 workflow. Their current headings are templates, not established story events.
 Treatments, skeletons, and performed scripts belong under `Script/`, outside the
-bible. The `.gitkeep` preserves empty directories and can be removed when the
-leaf contains real material.
+bible. Each episode has one manuscript file containing its scenes and beats.
 
-During preparation, each scene receives its own `AGENTS.md`,
-`dramatic_action_brief.md`, `performance_context.json`, `scene_skeleton.md`, and
-initial `script.md` when the required inputs are available. Beat folders organize
-material; canonical beat IDs and runtime handoff files provide traceability.
-The runtime discovers scenes through those handoff files rather than directory
-names. Season and episode divisions organize this theatrical work without
-implying a television production.
+Scene preparation and roundtable context remain distinct from the episode’s
+manuscript. The current creative-writer runtime expects scene-level materials,
+including `script.md`, and discovers scenes through its handoff files. Adapting
+that delivery contract to the episode manuscript is pending alongside the
+character-profile update. The template establishes the intended manuscript
+structure; runtime code remains unchanged.
 
 ## Adaptation and Template Provenance
 

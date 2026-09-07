@@ -14,6 +14,8 @@
 
 ## Scene Index
 
+- [Scene N — [Scene title]](script.md#scene-n--scene-title)
+
 ## Continuity Inherited and Established
 
 ## Sources and Open Questions

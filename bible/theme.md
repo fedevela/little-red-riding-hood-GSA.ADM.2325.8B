@@ -6,7 +6,7 @@ What can Red do when recognizing danger does not yet mean she can leave?
 
 ## Thematic Argument
 
-Concern can become a language of possession. Recognizing that change matters, yet recognition alone may not supply freedom. The work holds this tension open: it neither promises that good judgment always saves a person nor makes the person threatened responsible for the threat.
+Concern can become a language of possession. Recognizing that change matters, yet recognition alone may not supply freedom. The tension lives between the clarity Red may find and the freedom still beyond her reach. The Wolf bears responsibility for the danger it creates.
 
 Red belongs on the path without earning another’s approval of who she is. Help
 ought to leave her free to choose company, distance, and the words she shares.
@@ -43,7 +43,3 @@ The hood: belonging and visibility. The basket: care carried as a responsibility
 ## Aesthetic References
 
 The spare vocabulary of an oral folk tale and the ambiguity of an intimate theatrical encounter give the story its aesthetic roots.
-
-## Story Provenance
-
-See [project provenance](project.md#authoritative-sources). The possibility of tragedy is canonical; its occurrence is not. No concluding lesson, successful intervention, or audience answer is established.

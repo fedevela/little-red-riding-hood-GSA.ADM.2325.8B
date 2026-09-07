@@ -7,9 +7,9 @@
 | little_red_riding_hood | Little Red Riding Hood, called Red | Carries the journey, the wish for independence, and the developing question of how to act upon doubt. | [Red](characters/little_red_riding_hood/) |
 | wolf | The Wolf | Pursues predation through an adaptable appearance of help; tests the difference between choice and control. | [Wolf](characters/wolf/) |
 
-## Supporting Cast
+## Family Beyond the Encounter
 
-There are no additional performing characters. Mother and grandmother may be mentioned as offstage family. They receive no profiles, dialogue, or independent dramatic arcs.
+Mother belongs to the home Red leaves; grandmother belongs to the destination she hopes to reach. Their presence is carried through Red’s affection and purpose. The performing cast is Red and the Wolf.
 
 ## Red — Biography and Belonging
 
@@ -17,12 +17,8 @@ Red is a girl carrying provisions to her grandmother. Her red hood belongs to th
 
 ## Wolf — Biography and Belonging
 
-The Wolf knows the woods and approaches Red with concealed predatory intent. Its past is not an explanatory excuse, and no invented history is needed to make its choices legible. It belongs to no established faction and holds no legitimate authority over Red.
+The Wolf knows the woods and approaches Red with concealed predatory intent. Hunger gives its attention a purpose; the appearance of concern gives it a way to approach. It seeks influence through the encounter itself.
 
 ## Relationship Overview
 
-They begin without an established personal bond. The Wolf seeks to turn acquaintance into influence and influence into control. Red can find an offer useful while distrusting the one who makes it. Neither apparent friendliness nor prior cooperation establishes lasting trust. See [relationships](relationships.drawio) and [dramatic arcs](dramatic_arcs.md).
-
-## Story Provenance
-
-See [project provenance](project.md#authoritative-sources). The cast is fixed at two performing characters. Their final fates remain deliberately unresolved.
+They meet as strangers. The Wolf seeks to turn acquaintance into influence and influence into control. Red can find an offer useful while distrusting the one who makes it. Trust remains something Red weighs as the encounter changes. See [relationships](relationships.drawio) and [dramatic arcs](dramatic_arcs.md).

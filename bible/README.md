@@ -1,8 +1,8 @@
 # Story Bible
 
-## Canon and Provenance
+## The Story’s Foundation
 
-This bible establishes an original, two-character Little Red Riding Hood adaptation under the partner’s directions. Its prose supplies dramatic foundations; it does not supply a script. The partner may revise these choices. See [project provenance](project.md#authoritative-sources) for the distinction between inherited motifs and this adaptation.
+Red’s journey meets the Wolf’s patient hunger in this original two-character adaptation. The bible holds the people, places, desires, and pressures that give their encounter life. The partner shapes its canon; [project provenance](project.md#authoritative-sources) records its roots.
 
 ## Read the Foundation
 
@@ -18,30 +18,38 @@ This bible establishes an original, two-character Little Red Riding Hood adaptat
 ## Authorial Memory
 
 The [GSA concepts section](project.md#gsa-concepts--dramaturgy-first) records how the partner's
-source ideas become tensions in this story. It is a reference for development
-and review, separate from what the characters know. Read it for the meaning to
-carry; let the handoff and story retain their own lyrical language.
+source ideas become tensions in this story. It holds the meanings carried through desire,
+attention, favor, and the changing experience of the path.
 
-## The Seven Character Dimensions
+## The Director’s Seven Character Dimensions
 
-| File | Responsibility |
-| --- | --- |
-| appearance.md | Physical identity and expressive qualities, without blocking. |
-| personality.md | Traits, contradictions, and behavioral tendencies. |
-| interiorvoice.md | Private perception and self-justification, without scripted monologues. |
-| wants.md | Conscious pursuit, deeper need, and stakes. |
-| fears.md | Vulnerabilities and the cost of avoiding them. |
-| secrets.md | Concealment and the boundaries of who knows what. |
-| lexicon.md | Spoken register and rhythm, without dialogue. |
+Each character’s complete profile follows the director’s seven dimensions below.
+These dimensions hold the character across the work: what draws them onward,
+what divides them, and the thoughts and images through which they find their way.
 
-## Knowledge and Access
+| File | Dimension | Responsibility |
+| --- | --- | --- |
+| objective.md | Objective | The conscious, concrete goal the character actively pursues. |
+| hidden_objective.md | Hidden Objective | The deeper, unconfessable, or unconscious desire beneath that pursuit. |
+| conflict_with_others.md | Conflict with Others | The collision of the character’s interests, values, or needs with the other character. |
+| conflict_with_self.md | Conflict with Self | The struggle among doubts, fears, values, and contradictory desires. |
+| conflict_with_environment.md | Conflict with Environment | The struggle with the physical world and the expectations surrounding the character. |
+| line_of_thought.md | Line of Thought | How perception becomes reasoning, decision, inward speech, and spoken expression. |
+| line_of_images.md | Line of Images | The familiar images, associations, metaphors, and inward visions that color perception. |
 
-Each character’s private profile belongs to that character’s preparation. During roundtable performance, a character may access only its own folder within bible/characters/ and its supplied context and eligible observations. The director may receive both profiles. This instruction does not create filesystem isolation or authorize actor tools or writes.
+Physical identity belongs to the encounter with the surroundings and to the
+images the character carries; speech grows from thought and comparison. Traits,
+vulnerabilities, and concealed truths live within the objectives and conflicts.
+The seven files together form the whole profile.
 
-## What the Bible Leaves Unwritten
+## Working with the Bible
+
+[Project instructions](../AGENTS.md) hold writing responsibilities and character access rules. The [project README](../README.md) describes the writing workflow and runtime compatibility.
+
+## From Foundation to Encounter
 
 The bible holds the story’s foundations. Scenes, dialogue, beats, and performed actions develop under `Script/`. The Wolf tries several approaches before its final trap; the writer discovers their particular form through the encounter. Character tendencies give each voice room to respond.
 
 ## The Unanswered Door
 
-The final door is neither open nor closed. Tragedy remains possible; rescue, capture, escape, and reconciliation remain unconfirmed. The question is deliberately available for discussion, with no prescribed answer.
+The final door is neither open nor closed. Tragedy remains possible. The question travels beyond the encounter, alive in the audience’s own judgment.
