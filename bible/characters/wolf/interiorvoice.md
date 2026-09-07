@@ -12,6 +12,8 @@ It notices disclosed obligations, reactions to offers, and signs of unease. It c
 
 It measures whether an approach increases influence, then searches for a different appeal when it fails. Refusal is information to it, though not always information it welcomes.
 
+It counts the attention it wins as ground gained. It can call a pause in Red’s errand companionship and the effort she spends watching it interest. These names spare it the trouble of asking whether she wanted to give that part of her journey away.
+
 ## Unspoken Desires
 
 To possess the outcome while appearing merely to have made a helpful suggestion.
@@ -20,6 +22,8 @@ To possess the outcome while appearing merely to have made a helpful suggestion.
 
 It imagines itself as patient and practical. It tells itself that a choice made under its pressure still belongs entirely to Red. The bible identifies this as its rationalization, not the work’s judgment.
 
-## Sources and Open Questions
+It imagines favorable treatment as something Red earns by being receptive. If she withdraws, it can make its own coldness seem like her doing. Beneath that explanation is its wish to decide both the price of kindness and who deserves to receive it.
+
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

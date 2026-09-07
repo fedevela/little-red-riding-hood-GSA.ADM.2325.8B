@@ -20,6 +20,12 @@ The Wolf’s appetite is immediate; its approach is patient. It does not begin w
 
 Its repertoire includes apparently harmless interest that gathers information, helpfulness that seeks dependence, flattery aimed at Red’s wish for independence, and manufactured urgency that presents compliance as protection. These are connected strategies, not a mandatory four-step sequence. An unsuccessful approach can still reveal something; an apparent success can also make Red more suspicious.
 
+Special attention carries another pressure: the Wolf can make an easier way, a welcome, or a kindness seem to depend upon Red giving it the company or closeness it wants. Favor can appear to follow how warmly she receives it. The pressure lies in that bargain even if Red never accepts its terms.
+
+Its judgments can fasten upon her youth, her appearance, or where she belongs, as though these gave it the right to decide how seriously to take her. Words, looks, and the use of space can each make the journey harder. Repeated demands on her attention compete with the care that brought her into the woods.
+
+Refusal and the possibility of Red telling someone threaten the Wolf’s hold over the encounter. Its warmth may become conditional or give way to coldness. These pressures deepen the existing struggle; their expression and order grow from the characters rather than a prescribed series of incidents.
+
 The final trap concentrates the underlying contradiction: safety offered under the predator’s control. Earlier interactions must make that offer intelligible without making Red’s acceptance inevitable. Its concrete mechanism belongs to future dramatic development.
 
 ## Red’s Arc — little_red_riding_hood
@@ -46,10 +52,10 @@ An unequal acquaintance may acquire the appearance of companionship without beco
 
 The final question remains unanswered. Red faces a credible danger and a proposed refuge whose terms are controlled by the Wolf. The final door is neither open nor closed: entry, retreat, capture, and survival are not settled. This is the boundary of the ending, not a literal door movement or a prescribed final image.
 
-## Relationship to Future Outlines
+## Season 1 — Dramatic Scope
 
-No season, episode, scene, or beat is assigned here. Future outlines may draw on these pressures while preserving several attempts, consequential resistance, and the unresolved ending. Existing Script materials remain untouched.
+Season 1 holds Red’s journey, the Wolf’s gradual pursuit, and the gathering pressure of the final trap. Several attempts and consequential resistance give the encounter its breadth. The unanswered threshold holds its ending. The writer develops scenes and beats from these foundations.
 
-## Sources and Open Questions
+## Story Provenance
 
-See [project provenance](project.md#authoritative-sources). Exact tactics in any particular encounter, physical trap mechanics, and performed actions remain unwritten. The possible tragedy and refusal of a conclusive answer are established artistic commitments.
+See [project provenance](project.md#authoritative-sources). The writer gives particular form to the encounter through the characters’ choices. The possible tragedy and refusal of a conclusive answer are established artistic commitments.

@@ -14,7 +14,7 @@ Thoughtful questions and statements that test a detail. Under uncertainty her ph
 
 ## Idioms and Favorite Phrases
 
-No catchphrase or sample dialogue is established. Familiar comparisons may grow from her immediate world.
+Her familiar comparisons grow from paths, weather, home, and the things she carries. She returns to concrete details when another person’s explanation becomes slippery.
 
 ## Verbal Tics
 
@@ -28,6 +28,6 @@ No absolute word blacklist is imposed. Authorial explanations, knowledge she has
 
 Politeness may thin as distinctions become urgent. Brevity, hesitation, or a carefully framed question are possibilities, not a predetermined escalation.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

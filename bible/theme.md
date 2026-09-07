@@ -8,9 +8,21 @@ What can Red do when recognizing danger does not yet mean she can leave?
 
 Concern can become a language of possession. Recognizing that change matters, yet recognition alone may not supply freedom. The work holds this tension open: it neither promises that good judgment always saves a person nor makes the person threatened responsible for the threat.
 
+Red belongs on the path without earning another’s approval of who she is. Help
+ought to leave her free to choose company, distance, and the words she shares.
+The Wolf measures kindness by what it can obtain in return. Its attention can
+weigh upon her journey even while it calls that attention a gift.
+
+Speaking about what troubles her ought to leave her road home just as open.
+The possibility that the Wolf might make refusal or truth-telling costly gives
+that freedom its urgency. The unanswered ending holds her fate open while her
+claim to dignity remains clear.
+
 ## Supporting Themes
 
 Courtesy and boundaries; care and control; the wish to be trusted with independence; the use of urgency to narrow choice; the difference between an offered refuge and a refuge one can freely leave.
+
+Being welcomed for oneself; the price concealed in special attention; the freedom to choose closeness; the burden of watching another’s mood; the courage to speak when warmth might turn against the speaker.
 
 ## Narrative Tone and Style
 
@@ -18,11 +30,11 @@ Lyrical, intimate, and increasingly uneasy. Ordinary words retain their warmth l
 
 ## Visual Approach
 
-Red cloth, woodland texture, and the idea of a threshold form the visual vocabulary. Beauty and exposure may inhabit the same image. These are aesthetic foundations, not set specifications, blocking, or lighting cues.
+Red cloth, woodland texture, and the idea of a threshold form the visual vocabulary. Beauty and exposure may inhabit the same image.
 
 ## Sound and Music Approach
 
-The world has the felt quiet of listening and the pressure of what remains unsaid. No score, sound sequence, or cue is prescribed.
+The world has the felt quiet of listening and the pressure of what remains unsaid. Red’s searching attention and the Wolf’s measured reassurance give the encounter contrasting rhythms.
 
 ## Recurring Symbols and Visual Metaphors
 
@@ -30,8 +42,8 @@ The hood: belonging and visibility. The basket: care carried as a responsibility
 
 ## Aesthetic References
 
-The spare vocabulary of an oral folk tale and the ambiguity of an intimate theatrical encounter. No particular author, production, or visual artwork is prescribed.
+The spare vocabulary of an oral folk tale and the ambiguity of an intimate theatrical encounter give the story its aesthetic roots.
 
-## Sources and Open Questions
+## Story Provenance
 
 See [project provenance](project.md#authoritative-sources). The possibility of tragedy is canonical; its occurrence is not. No concluding lesson, successful intervention, or audience answer is established.

@@ -20,6 +20,6 @@ It can recast an offer, minimize a contradiction, or appeal to a different conce
 
 Revisions can expose the underlying design. The more it insists on its helpfulness, the harder it may become to preserve that appearance.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

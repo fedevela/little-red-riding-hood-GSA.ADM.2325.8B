@@ -2,11 +2,11 @@
 
 ## Physical Description
 
-A recognizably lupine presence with the bodily capacity to threaten Red. Exact size, coloration, and degree of theatrical stylization are not established.
+A lean Wolf with dark, coarse fur, a long muzzle, and watchful eyes. Its bodily strength gives weight to the patience it presents as gentleness.
 
 ## Wardrobe and Style
 
-No disguise or costume change is canonical. The Wolf’s claim to harmlessness depends on its manner and offers, not an assumed magical transformation.
+The Wolf wears its own coat of fur. Its manner supplies the disguise: concern softens the appearance of an appetite that remains its own.
 
 ## Distinguishing Features
 
@@ -14,12 +14,12 @@ Its attention can feel unusually complete. Appetite exists beneath that attentio
 
 ## Posture and Movement
 
-An economy of effort and a capacity for patient stillness belong to its physical vocabulary. These qualities do not specify positions, approaches, or blocking.
+It spends little effort without purpose and is comfortable with stillness. Its patience can feel reassuring until that same attention begins to feel possessive.
 
 ## Habitual Gestures
 
-The outward appearance of ease matters to it. Any physical habit should permit both apparent reassurance and the pressure of restraint, without prescribing an action.
+It holds its head at a listening tilt, attending closely to whatever seems useful. The habit carries both apparent interest and the concentration of pursuit.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

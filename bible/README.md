@@ -6,7 +6,7 @@ This bible establishes an original, two-character Little Red Riding Hood adaptat
 
 ## Read the Foundation
 
-- [Project](project.md): premise, theatrical format, provenance, and undecided production details.
+- [Project](project.md): premise, teen audience, Season 1, and story provenance.
 - [Characters](characters.md): the two performing roles and their narrative functions.
 - [Red’s profile](characters/little_red_riding_hood/): her seven character dimensions.
 - [Wolf’s profile](characters/wolf/): its seven character dimensions.
@@ -14,6 +14,13 @@ This bible establishes an original, two-character Little Red Riding Hood adaptat
 - [World rules](world_rules.md): setting, knowledge limits, and the terms of danger.
 - [Theme](theme.md): the unanswered question and lyrical vocabulary.
 - [Relationships](relationships.drawio): the unequal relationship between the two characters.
+
+## Authorial Memory
+
+The [GSA concepts section](project.md#gsa-concepts--dramaturgy-first) records how the partner's
+source ideas become tensions in this story. It is a reference for development
+and review, separate from what the characters know. Read it for the meaning to
+carry; let the handoff and story retain their own lyrical language.
 
 ## The Seven Character Dimensions
 
@@ -33,7 +40,7 @@ Each character’s private profile belongs to that character’s preparation. Du
 
 ## What the Bible Leaves Unwritten
 
-Script/ is untouched. No scenes, beats, dialogue, blocking, cues, or fixed sequence of actions are supplied here. The Wolf must try several approaches before its final trap, but the concrete enactment remains open. Character tendencies are playable possibilities, not instructions forcing a response.
+The bible holds the story’s foundations. Scenes, dialogue, beats, and performed actions develop under `Script/`. The Wolf tries several approaches before its final trap; the writer discovers their particular form through the encounter. Character tendencies give each voice room to respond.
 
 ## The Unanswered Door
 

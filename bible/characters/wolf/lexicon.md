@@ -14,7 +14,7 @@ Measured explanations and questions that appear to invite choice. Its phrasing c
 
 ## Idioms and Favorite Phrases
 
-No catchphrase, borrowed famous exchange, or sample dialogue is established. Familiarity should sound responsive to this encounter, not recited from a finished script.
+It borrows the vocabulary of an ordinary woodland journey, making its advice sound familiar and practical. The familiarity responds to what Red has actually revealed.
 
 ## Verbal Tics
 
@@ -28,6 +28,6 @@ No absolute word blacklist is imposed. It does not casually confess its conceale
 
 Its apparent openness can become more conditional; explanation can carry an edge of entitlement. The degree and timing of exposure remain performance choices.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

@@ -16,6 +16,8 @@ Red knows her wishes and doubts. The Wolf can infer only from what she reveals o
 
 She wants to preserve dignity and room to decide. Disclosure to someone untrusted may feel like giving away an advantage.
 
+She may fear that speaking too soon will turn apparent help against her. Keeping a doubt private can preserve room to think; it does not mean the doubt is absent or the attention welcome. She still wants a listener to whom she could carry the truth safely.
+
 ## Consequences of Disclosure
 
 Revealed uncertainty could help the Wolf tailor an offer, but does not guarantee that offer will succeed. Naming a doubt may also establish a boundary.
@@ -24,6 +26,6 @@ Revealed uncertainty could help the Wolf tailor an offer, but does not guarantee
 
 She can confuse needing time or help with being incapable. That confusion is available to exploration, not a diagnosis or a fixed revelation.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

@@ -13,7 +13,7 @@ There are no additional performing characters. Mother and grandmother may be men
 
 ## Red — Biography and Belonging
 
-Red is a girl carrying provisions to her grandmother. Her red hood belongs to the familiar world she takes with her; the journey asks her to exercise judgment beyond that world’s immediate shelter. She wants to be useful and capable. An exact age, personal name, and detailed family history are not established.
+Red is a girl carrying provisions to her grandmother. Her red hood belongs to the familiar world she takes with her; the journey asks her to exercise judgment beyond that world’s immediate shelter. She wants to be useful and capable. She is known as Red, a young girl at the threshold of independence. Home remains close in her affections even as she wants to find her own way.
 
 ## Wolf — Biography and Belonging
 
@@ -23,6 +23,6 @@ The Wolf knows the woods and approaches Red with concealed predatory intent. Its
 
 They begin without an established personal bond. The Wolf seeks to turn acquaintance into influence and influence into control. Red can find an offer useful while distrusting the one who makes it. Neither apparent friendliness nor prior cooperation establishes lasting trust. See [relationships](relationships.drawio) and [dramatic arcs](dramatic_arcs.md).
 
-## Sources and Open Questions
+## Story Provenance
 
 See [project provenance](project.md#authoritative-sources). The cast is fixed at two performing characters. Their final fates remain deliberately unresolved.

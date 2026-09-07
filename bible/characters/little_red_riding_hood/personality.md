@@ -16,6 +16,8 @@ She sometimes gives another person’s confident explanation more time than her 
 
 She values care, honesty, and independence. She wants to decide for herself, yet may still look outward for confirmation that her decision is good.
 
+She wants to be seen clearly without being measured down to her youth, her hood, or the home she comes from. Those things carry belonging for her. Another’s certainty about them can wound her confidence without making that certainty true.
+
 ## Internal Conflict
 
 If she refuses help, she risks feeling foolish or ungrateful; if she accepts it, she risks surrendering judgment. Neither feeling tells her the whole truth.
@@ -28,6 +30,6 @@ She compares what is said with what she notices. Questions are one way she prese
 
 Her attention becomes more selective. She may delay an answer, withhold information, or name a contradiction. Fear does not determine one inevitable response.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).

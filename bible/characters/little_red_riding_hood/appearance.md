@@ -2,11 +2,11 @@
 
 ## Physical Description
 
-A girl young enough to be learning the reach of her independence, old enough to have judgment of her own. Exact age, complexion, and body type are not prescribed.
+A young girl at the threshold of independence, with an attentive face and the alertness of someone who wants to take in the world. Her curiosity is visible before her caution grows.
 
 ## Wardrobe and Style
 
-A red hood or hooded cloak and clothing suitable for a woodland journey. She carries provisions in a basket. Their materials and realization remain production choices.
+A red hooded cloak over simple everyday clothes, sturdy shoes for the woodland path, and a basket of provisions for grandmother. Familiar things accompany her into unfamiliar company.
 
 ## Distinguishing Features
 
@@ -14,12 +14,12 @@ The red cloth carries a trace of home into the woods. It makes her recognizable 
 
 ## Posture and Movement
 
-Her bodily vocabulary holds purpose and curiosity together. Greater caution can gather within that openness; no movement sequence is fixed.
+She carries herself with purpose and curiosity. Caution gathers within that openness as she becomes more attentive to the difference between an invitation and a demand.
 
 ## Habitual Gestures
 
-Care for what she carries is part of her physical character. Any recurring gesture should arise from attention and responsibility, not an imposed sign of helplessness.
+She habitually checks that the basket’s contents are secure. Care lives in her hands as well as in the purpose of her journey.
 
-## Sources and Open Questions
+## Story Provenance
 
 Original characterization for this adaptation, developed under the partner-approved two-character premise. These details are adaptation choices, not claims about a particular published telling. See [project provenance](../../project.md#authoritative-sources).
