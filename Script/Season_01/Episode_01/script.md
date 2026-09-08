@@ -357,3 +357,19 @@ I mean past where you stand. I do not want you beside me.
 
 > *(LITTLE RED RIDING HOOD: I keep my eyes on the trace and continue forward without stopping or turning toward the Wolf.)*
 <!-- SCENE attention-trap-judgment END -->
+
+<!-- SCENE S1E1-Scene-05-Route-Test BEGIN -->
+### SCENE 5 — THE SPLIT ALDER TEST
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b1] -->
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b2] -->
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b3] -->
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b4] -->
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b5] -->
+
+<!-- RESOLVES [BEAT ab633ed98ca8:e1:b6] -->
+<!-- SCENE S1E1-Scene-05-Route-Test END -->
