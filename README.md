@@ -12,7 +12,7 @@ and dramatic foundations. Season 1 is the current writing assignment.
   complete profiles, each organized by the director’s [seven character
   dimensions](bible/README.md#the-directors-seven-character-dimensions).
 - `Script/season_template/Season_N/Episode_N/script.md`: a blank episode manuscript
-  containing all its scenes and beats; [Script guide](Script/README.md) holds the generic template.
+  containing all its scenes and beats; [Script guide](<Script artifacts/README.md>) holds the generic template.
 - `AGENTS.md`: instructions for agents working in this project.
 
 ## Manual Creative-Writer Handoff
@@ -38,7 +38,7 @@ is pending; the profiles are ready for manual reading and development.
 
 ## Markdown Script Template
 
-The [Script guide](Script/README.md) holds the generic Markdown template and
+The [Script guide](<Script artifacts/README.md>) holds the generic Markdown template and
 formatting conventions. [Episode N](Script/season_template/Season_N/Episode_N/script.md)
 is a blank manuscript with front matter, act and scene headings, character cues,
 dialogue, directions, and an internal beat marker. Each episode document contains
@@ -46,18 +46,15 @@ all its scenes and beats. The manuscript scaffold remains neutral until story wr
 
 ## Writing and Performance Materials
 
-Develop the [season outline](Script/season_template/Season_N/README.md) and
-[episode outline](Script/season_template/Season_N/Episode_N/README.md) through the writing
+Develop the [season outline](<Script artifacts/season_template/Season_N/README.md>) and
+[episode outline](<Script artifacts/season_template/Season_N/Episode_N/README.md>) through the writing
 workflow. Their current headings are templates, not established story events.
-Treatments, skeletons, and performed scripts belong under `Script/`, outside the
-bible. Each episode has one manuscript file containing its scenes and beats.
-
-Scene preparation and roundtable context remain distinct from the episode’s
-manuscript. The current creative-writer runtime expects scene-level materials,
-including `script.md`, and discovers scenes through its handoff files. Adapting
-that delivery contract to the episode manuscript is pending alongside the
-character-profile update. The template establishes the intended manuscript
-structure; runtime code remains unchanged.
+Only `script.md` manuscripts belong under `Script/`. Supporting outlines, guides,
+preparation, skeletons, briefs, and performance contexts belong under the sibling
+`Script artifacts/` tree, preserving season and episode structure. Shared scene
+preparation lives in `Script artifacts/scene_materials/<scene_id>/`; performance
+handoffs live in `Script artifacts/Season_01/Episode_01/scene_materials/<scene_id>/`
+and point to the corresponding `Script/Season_01/Episode_01/script.md`.
 
 ## Adaptation and Template Provenance
 

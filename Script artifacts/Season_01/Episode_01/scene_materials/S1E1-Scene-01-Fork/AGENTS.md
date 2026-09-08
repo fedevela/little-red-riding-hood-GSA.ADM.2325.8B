@@ -15,9 +15,9 @@ character-owned dialogue or action.
 - Relationship map: `bible/relationships.drawio`
 - Red profile: `bible/characters/little_red_riding_hood/`
 - Wolf profile: `bible/characters/wolf/`
-- Continuity and treatment / phase-5 preparation: `scene_materials/S1E1-Scene-01-Fork/preparation.md`
-- Phase-6 skeleton source: `scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md`
-- Phase-7 dramatic brief source: `scene_materials/S1E1-Scene-01-Fork/dramatic_action_brief.md`
+- Continuity and treatment / phase-5 preparation: `Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md`
+- Phase-6 skeleton source: `Script artifacts/scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md`
+- Phase-7 dramatic brief source: `Script artifacts/scene_materials/S1E1-Scene-01-Fork/dramatic_action_brief.md`
 
 The copied brief, immutable skeleton, public template, and version-3 context
 are the materials for phase 9. The episode manuscript contains exactly one

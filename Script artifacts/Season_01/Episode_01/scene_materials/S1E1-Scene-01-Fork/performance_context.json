@@ -35,19 +35,19 @@
       "bible/characters/wolf/line_of_images.md"
     ],
     "continuity": [
-      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+      "Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"
     ],
     "treatment": [
-      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+      "Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"
     ],
     "constraints": [
       "AGENTS.md",
       "README.md",
       "bible/world_rules.md",
-      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+      "Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"
     ],
     "skeleton": [
-      "scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md"
+      "Script artifacts/scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md"
     ]
   },
   "actor_safe_bible_paths": [],
