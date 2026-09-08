@@ -12,6 +12,14 @@ The world contains Red’s home, woodland paths, and her grandmother’s destina
 
 The tale lives in the timeless country of woods and scattered homes, where journeys are made on foot and care travels in what one person carries to another. Its familiarity comes from a path, a burden carried for someone loved, and the distance between houses.
 
+Contemporary, meme-inflected language is an intentional convention within this
+woodland reality. It does not date the story or establish modern institutions
+or technological infrastructure. Recognizable phrasing may describe the path,
+weather, provisions, and the immediate encounter; explicit technology vocabulary,
+platform names, and references to online activity remain outside character speech
+and private thoughts. A regional speaking cadence likewise establishes no new
+geographical origin.
+
 ## Physical Constraints
 
 Bodies tire, distance takes effort, and daylight is finite. The Wolf’s bodily strength gives weight to the danger. Each character learns through experience, perception, and the meanings they draw from what they encounter.

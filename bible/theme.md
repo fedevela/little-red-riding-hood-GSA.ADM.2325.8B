@@ -28,6 +28,18 @@ Being welcomed for oneself; the price concealed in special attention; the freedo
 
 Lyrical, intimate, and increasingly uneasy. Ordinary words retain their warmth long enough for their second meaning to become disturbing. Red has a life of attention beyond fear; the Wolf has patience beyond a single threatening gesture.
 
+The woodland aesthetic welcomes contemporary, meme-inflected speech under the
+[world's language convention](world_rules.md#historical-context). Humor, slang,
+and awkward ordinary talk can live beside lyrical imagery. Keep vocabulary
+attached to what a speaker notices, wants, conceals, or reacts to now; a line
+need not explain the encounter's thematic meaning. No explicit technology
+vocabulary or references to platforms or online activity enter the dialogue.
+
+Use the speech definitions within each character's own line of thought for
+cadence and emotional variation. Allow silence, warmth, embarrassment, irritation,
+and fear to change the sound. Neither a joke in every exchange nor sustained
+eloquence is required. The images can carry poetry while the speakers stumble.
+
 ## Visual Approach
 
 Red cloth, woodland texture, and the idea of a threshold form the visual vocabulary. Beauty and exposure may inhabit the same image.
