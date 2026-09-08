@@ -8,21 +8,15 @@ materials. Scene 1 is the only earlier performed scene in this episode.
 
 ## Findings
 
-One transition continuity question requires attention; the scene’s internal
-chronology, physical action, props, and character knowledge otherwise hold.
+Continuity holds. No correction to the performed text is required.
 
-- **Transition / Wolf location — question for the originating character:**
-  Scene 1 ends with the Wolf “at the road edge” while Red continues beyond the
-  bend into the wet-marked trace (Scene 1 final passage, local beat
-  `comment-5577156092-next:e1:b6`, pivotal identity `BEAT-G2-3-1`). Scene 2
-  opens with the Wolf at the creek’s near bank and has it remain there through
-  the crossing (local beats `070275abd30b:e1:b1`–`b3`), but no passage or
-  transition establishes how it moved from the road edge to the creek. The
-  accepted preceding continuity note explicitly hands off the Wolf at or near
-  the road edge. This is an unaccounted transition, not evidence that the Wolf
-  could not have followed the route. The originating character should establish
-  the movement or a continuous placement in a future performance if the
-  transition must be made explicit.
+- **Transition / Wolf location:** Scene 1 ends with the Wolf at the road edge
+  while Red continues along the trace. Scene 2 begins at the creek farther along
+  that route. The scene break permits ordinary offstage travel; neither scene
+  establishes simultaneous action, an impassable distance, or a restriction
+  preventing the Wolf from following. Its arrival at the creek is therefore
+  compatible with the previous ending. Explicit travel narration is optional,
+  not a continuity correction.
 
 - **Chronology and setting:** The late-day, post-rain progression is
   consistent. Scene 1 ends as the last light thins; Scene 2 begins with
