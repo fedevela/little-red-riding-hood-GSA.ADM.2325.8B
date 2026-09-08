@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "issue": 21,
+  "scene_id": "S1E1-Scene-07-Shelter-With-Terms",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT 602eb0f2be2e:e1:b1",
+    "BEAT 602eb0f2be2e:e1:b2",
+    "BEAT 602eb0f2be2e:e1:b3",
+    "BEAT 602eb0f2be2e:e1:b4",
+    "BEAT 602eb0f2be2e:e1:b5",
+    "BEAT 602eb0f2be2e:e1:b6"
+  ],
+  "moment_metadata": [
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b1", "pivotal_beat_id": "none established", "predecessor_links": []},
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b2", "pivotal_beat_id": "none established", "predecessor_links": []},
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b3", "pivotal_beat_id": "none established", "predecessor_links": []},
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b4", "pivotal_beat_id": "none established", "predecessor_links": []},
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b5", "pivotal_beat_id": "none established", "predecessor_links": []},
+    {"moment_id": "BEAT 602eb0f2be2e:e1:b6", "pivotal_beat_id": "BEAT-G6-3-2", "predecessor_links": ["BEAT-4d6a1d8707fe-1-1", "BEAT-4d6a1d8707fe-1-3", "BEAT-4d6a1d8707fe-1-5", "BEAT-B5-2B-1", "BEAT-B6-2B-1", "BEAT-B6-2B-2", "BEAT-B6-2B-3", "BEAT-B6-2B-4", "BEAT-C1-2C-1", "BEAT-CH4-2A-4", "BEAT-CH5-2A-5", "BEAT-CH6-2A-6", "BEAT-CH7-2A-1", "BEAT-CH7-2A-2", "BEAT-CH7-2A-3", "BEAT-CH7-2A-4", "BEAT-CH7-2A-5", "BEAT-CH7-2A-6", "BEAT-CH7-2A-7", "BEAT-CH7-2A-8", "BEAT-G5-3-1", "BEAT-K1-1-1", "BEAT-K3-1-3", "BEAT-K5-1-5", "BEAT-K6-1-1", "BEAT-K6-1-2"]}
+  ],
+  "sources": {
+    "bible": ["bible/README.md", "bible/project.md", "bible/characters.md", "bible/dramatic_arcs.md", "bible/world_rules.md", "bible/theme.md", "bible/relationships.drawio", "bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md", "bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+    "continuity": ["Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-01-Fork/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/crossing-conditional-help/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-03-Welcome-With-Terms/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/attention-trap-judgment/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-05-Route-Test/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-06-Attention-Cost/continuity_notes.md"],
+    "treatment": ["README.md", "Script artifacts/README.md"],
+    "constraints": ["AGENTS.md", "Script artifacts/scene_materials/S1E1-Scene-07-Shelter-With-Terms/preparation.md"],
+    "skeleton": ["Script artifacts/scene_materials/S1E1-Scene-07-Shelter-With-Terms/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood, called Red",
+      "persona_paths": ["bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md"],
+      "scene_context": "At a washed-out gully in thinning post-rain light, Red carries the intact covered basket toward grandmother. The trace divides between a narrow exposed shelf and a low root-hollow; the Wolf remains readable beside the hollow without blocking the routes.",
+      "moment_contexts": {
+        "BEAT 602eb0f2be2e:e1:b1": "The Wolf names an unseen danger behind or beside Red. She can inspect the disturbed bracken and immediate footing, but cannot verify what lies beyond her view.",
+        "BEAT 602eb0f2be2e:e1:b2": "The warning narrows to slick ground. Red can compare the exposed shelf, hollow mouth, rear opening, and the Wolf's position without treating either route as proved safe.",
+        "BEAT 602eb0f2be2e:e1:b3": "The hollow offers real cover but its rear opening is constricted or wet. Red can inspect, protect the basket, and weigh finite light against her duty to reach grandmother.",
+        "BEAT 602eb0f2be2e:e1:b4": "The basket fastening catches at the threshold. Red retains possession and can work at the snag or change position while the Wolf offers help from its easier side.",
+        "BEAT 602eb0f2be2e:e1:b5": "The Wolf's offer has acquired closeness as a condition. Red can pause outside or at the hollow mouth and establish that her distance and basket remain hers.",
+        "BEAT 602eb0f2be2e:e1:b6": "Red stands at the threshold with the basket. The shelf remains possible but exposed, the hollow sheltered with a visible rear opening, and recognition has not supplied a safe exit or determined her next movement."
+      },
+      "known_context": "Red knows the basket and errand are hers, the immediate ground can be tested, and the Wolf's claims must be compared with what she can see. She does not know the Wolf's private purpose or what lies beyond reliable view.",
+      "private_context": "Red wants to deliver the provisions through her own judgment while preserving distance and the right to choose. Her growing wariness competes with duty, finite light, and the wish to be capable."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": ["bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+      "scene_context": "At a washed-out gully, the Wolf can make a low root-hollow easier to reach than the exposed shelf while remaining beside it and not touching or blocking Red. A genuine footing problem and fading light support an offer whose terms it controls.",
+      "moment_contexts": {
+        "BEAT 602eb0f2be2e:e1:b1": "An ambiguous rustle or disturbed bracken supports an urgent warning. The Wolf can indicate the unseen direction and must respond to Red's inspection without knowing her private conclusion.",
+        "BEAT 602eb0f2be2e:e1:b2": "Red challenges the broad warning. The Wolf can narrow it to slick ground and use its position beside the hollow to make that route easier while leaving the shelf open.",
+        "BEAT 602eb0f2be2e:e1:b3": "Red inspects the hollow and protects the basket while light fades. The Wolf can wait and observe, presenting patience as care without taking possession.",
+        "BEAT 602eb0f2be2e:e1:b4": "The basket catches visibly. The Wolf can offer reach or strength from beside the hollow, stopping short of touch and leaving Red the choice to accept or refuse.",
+        "BEAT 602eb0f2be2e:e1:b5": "Red limits the Wolf's access. It can cool its warmth, narrow the offer, or renew concern while keeping the routes physically open and without knowing her recognition.",
+        "BEAT 602eb0f2be2e:e1:b6": "The Wolf can name the controlled hollow the safest remaining option after its revisions. It controls the convenient ground but cannot choose Red's movement or prove the danger."
+      },
+      "known_context": "The Wolf knows the local ground more readily and observes Red's pauses, basket, tests, and chosen distance. It does not know her private threshold, full route, or what account she may carry home.",
+      "private_context": "The Wolf wants to bring Red within reach while making its influence resemble her choice. It conceals predatory purpose beneath practical concern and may mistake resistance for an opening to solve."
+    }
+  }
+}

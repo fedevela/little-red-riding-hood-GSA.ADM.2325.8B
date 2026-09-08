@@ -14,7 +14,7 @@
 
 ## Scene Index
 
-- [Scene N — [Scene title]](script.md#scene-n--scene-title)
+- [Scene N — [Scene title]](../../../../Script/season_template/Season_N/Episode_N/script.md#scene-n--scene-title)
 
 ## Continuity Inherited and Established
 

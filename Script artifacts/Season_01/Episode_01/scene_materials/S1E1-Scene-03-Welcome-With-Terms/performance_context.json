@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "issue": 19,
+  "scene_id": "S1E1-Scene-03-Welcome-With-Terms",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT 8a9a7a25ceee:e1:b1",
+    "BEAT 8a9a7a25ceee:e1:b2",
+    "BEAT 8a9a7a25ceee:e1:b3",
+    "BEAT 8a9a7a25ceee:e1:b4",
+    "BEAT 8a9a7a25ceee:e1:b5"
+  ],
+  "sources": {
+    "bible": ["bible/README.md", "bible/project.md", "bible/characters.md", "bible/dramatic_arcs.md", "bible/world_rules.md", "bible/theme.md", "bible/relationships.drawio", "bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md", "bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+    "continuity": ["Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-01-Fork/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/crossing-conditional-help/continuity_notes.md"],
+    "treatment": ["Script artifacts/scene_materials/S1E1-Scene-03-Welcome-With-Terms/preparation.md"],
+    "constraints": ["AGENTS.md", "bible/world_rules.md", "bible/project.md", "bible/theme.md"],
+    "skeleton": ["Script artifacts/scene_materials/S1E1-Scene-03-Welcome-With-Terms/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": ["bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md"],
+      "scene_context": "Red continues through the late-day, rain-marked trace after the creek crossing. She carries a covered basket of provisions toward grandmother; the creek marks and angled branch remain behind, and the wet route ahead is open but difficult. The Wolf can speak and offer terrain knowledge while Red retains her destination, pace, basket, distance, and judgment.",
+      "moment_contexts": {
+        "BEAT 8a9a7a25ceee:e1:b1": "The creek is behind Red and the visible trace continues ahead. She can pause to check the covered basket and route while the Wolf remains several paces away; maintained distance may feel companionable without proving trust or safety.",
+        "BEAT 8a9a7a25ceee:e1:b2": "Slick roots or soft ground interrupt the next stretch. Red can ask for a precise indication and test each patch herself, keeping the basket, pace, route, and distance under her control.",
+        "BEAT 8a9a7a25ceee:e1:b3": "Red has tested useful footing herself. She can acknowledge the help while deciding whether to accept any nearer company; gratitude does not require her to surrender distance, pace, basket, or errand.",
+        "BEAT 8a9a7a25ceee:e1:b4": "After Red names her distance, the open trace remains available but the Wolf's warmth or guidance may change. She can watch, ask once, test alone, or continue without repairing the Wolf's mood.",
+        "BEAT 8a9a7a25ceee:e1:b5": "Red can continue toward grandmother with provisions and destination intact. The Wolf's altered treatment may occupy attention that belongs to the errand, while what it will try next remains unknown."
+      },
+      "known_context": "Red knows she chose the wet trace, carries provisions to grandmother, and can test the ground herself. She knows the Wolf's earlier guidance was useful but did not grant it trust, touch, authority, company, or control.",
+      "private_context": "Red privately carries urgency about the errand, a wish to prove her capability, and uncertainty about the cost of needing facts from the Wolf. She may keep unease or disappointment private and need not decide what the Wolf means before acting."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": ["bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+      "scene_context": "The Wolf remains with Red on the continuing wet trace after the creek crossing. It knows the woodland footing well enough to offer specific guidance, but Red owns her route and the Wolf may not block or touch her. It can preserve several paces, offer nearer company as optional, and adapt when Red responds.",
+      "moment_contexts": {
+        "BEAT 8a9a7a25ceee:e1:b1": "Red pauses within sight with the covered basket and an open route ahead. The Wolf can remain several paces away and sustain attention through stillness, but cannot know whether Red experiences that distance as courtesy, observation, or pursuit.",
+        "BEAT 8a9a7a25ceee:e1:b2": "The Wolf can identify visible firmer footing across a short slippery stretch without entering Red's route. Genuine usefulness may earn attention, but Red's listening and testing do not establish trust or welcome of greater company.",
+        "BEAT 8a9a7a25ceee:e1:b3": "Red's tested success gives the Wolf an opening to request nearer company while calling refusal free. It can offer, qualify, wait, or revise from outside her space; it cannot know her threshold or place her body.",
+        "BEAT 8a9a7a25ceee:e1:b4": "Red has named a boundary. The Wolf can withhold unsolicited guidance, delay, turn toward shade, or increase distance while leaving the trace open; its reserve may be presented as respect, but its reading of Red remains fallible.",
+        "BEAT 8a9a7a25ceee:e1:b5": "Red continues with the basket and route. The Wolf has not secured control or the final trap; it can remain outside the path, observe, wait, or prepare another offer without resolving the encounter."
+      },
+      "known_context": "The Wolf knows the woods and can observe the creek's aftermath, the footing, Red's basket, her tests, and the open route. It knows only what Red's speech or conduct makes available and has not been granted trust, touch, company, or authority.",
+      "private_context": "The Wolf conceals predatory hunger beneath practical concern and wants useful help to become influence. It tends to mistake access for entitlement; Red's response may force revision, and no tactic has guaranteed the closeness it wants."
+    }
+  },
+  "moments": [
+    {"moment_id": "BEAT 8a9a7a25ceee:e1:b1", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 8a9a7a25ceee:e1:b2", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 8a9a7a25ceee:e1:b3", "pivotal_beat_id": "BEAT-G4-3-1", "predecessor_links": ["BEAT-4d6a1d8707fe-1-3", "BEAT-B3-2B-1", "BEAT-B4-2B-1", "BEAT-B4-2B-2", "BEAT-B4-2B-3", "BEAT-B4-2B-4", "BEAT-B4-2B-5", "BEAT-C1-2C-1", "BEAT-C1-2C-2", "BEAT-CH2-2A-2", "BEAT-CH3-2A-1", "BEAT-CH3-2A-2", "BEAT-CH3-2A-3", "BEAT-CH3-2A-4", "BEAT-CH3-2A-5", "BEAT-G3-3-1", "BEAT-K3-1-3"]},
+    {"moment_id": "BEAT 8a9a7a25ceee:e1:b4", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 8a9a7a25ceee:e1:b5", "pivotal_beat_id": null}
+  ]
+}

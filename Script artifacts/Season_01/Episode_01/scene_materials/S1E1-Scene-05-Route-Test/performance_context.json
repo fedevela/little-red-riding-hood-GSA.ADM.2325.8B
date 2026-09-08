@@ -1,0 +1,62 @@
+{
+  "version": 3,
+  "issue": 24,
+  "scene_id": "S1E1-Scene-05-Route-Test",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT ab633ed98ca8:e1:b1",
+    "BEAT ab633ed98ca8:e1:b2",
+    "BEAT ab633ed98ca8:e1:b3",
+    "BEAT ab633ed98ca8:e1:b4",
+    "BEAT ab633ed98ca8:e1:b5",
+    "BEAT ab633ed98ca8:e1:b6"
+  ],
+  "sources": {
+    "bible": ["bible/README.md", "bible/project.md", "bible/characters.md", "bible/dramatic_arcs.md", "bible/world_rules.md", "bible/theme.md", "bible/relationships.drawio", "bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md", "bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+    "continuity": ["Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-01-Fork/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/crossing-conditional-help/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-03-Welcome-With-Terms/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/attention-trap-judgment/continuity_notes.md"],
+    "treatment": ["bible/project.md", "bible/dramatic_arcs.md", "Script artifacts/scene_materials/S1E1-Scene-05-Route-Test/preparation.md"],
+    "constraints": ["bible/world_rules.md", "bible/theme.md", "Script artifacts/scene_materials/S1E1-Scene-05-Route-Test/preparation.md"],
+    "skeleton": ["Script artifacts/scene_materials/S1E1-Scene-05-Route-Test/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": ["bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md"],
+      "scene_context": "You continue beyond the flat stones on the narrowing wet trace with the intact basket and its fastening retied. The earlier beech, creek, and their markers are behind you; the Wolf follows at a distance while a fresh split alder interrupts the route ahead. Grandmother's exact location and the remaining distance are yours to keep private.",
+      "moment_contexts": {
+        "BEAT ab633ed98ca8:e1:b1": "The trace remains open but narrowing, and the basket fastening holds after your check. The Wolf is behind you and may ask about the errand; you can compare anything it says with the visible ground without naming grandmother's place or distance.",
+        "BEAT ab633ed98ca8:e1:b2": "A fresh split alder has washed part of the bank away. Two edges remain physically possible but differ in footing, exposure, and delay; you can inspect them while keeping the basket and distance under your control.",
+        "BEAT ab633ed98ca8:e1:b3": "A pale stone and the trace before the washout give you a visible reference. You may count, make an ordinary route mark, and ask about checkable landmarks beyond the alder without revealing your destination.",
+        "BEAT ab633ed98ca8:e1:b4": "The Wolf describes a real weakness as though one edge were necessary and offers help that would bring it nearer. You can compare that claim with the visible edges and refuse approach while retaining the basket.",
+        "BEAT ab633ed98ca8:e1:b5": "You can test both edges and compare the alder with your mark and the unbroken trace. The Wolf's necessity claim may fail to fit the ground; a longer visible detour remains a choice, not a declaration of safety.",
+        "BEAT ab633ed98ca8:e1:b6": "The chosen detour costs steps and fading light. The Wolf has seen parts of your checking method, but you retain the basket, your destination privacy, and the right to continue or refuse its next approach."
+      },
+      "known_context": "You are carrying provisions to grandmother along the wet trace. You have tested earlier terrain and know useful information from the Wolf does not grant it authority, touch, company, or control of your distance.",
+      "private_context": "You want to complete the errand through your own judgment and keep an account of it that belongs to you. You are beginning to use a repeatable check, while privately weighing the cost in time, route information, and attention."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": ["bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+      "scene_context": "You follow Red beyond the flat stones on the narrowing wet trace. The old beech and creek markers are behind her; a fresh split-alder washout offers two unequal but physically possible edges. You can observe her basket, route, words, marks, and tests from a distance, but cannot know her private destination or compel a passage.",
+      "moment_contexts": {
+        "BEAT ab633ed98ca8:e1:b1": "Red continues with the fastening retied and does not supply her exact destination. You can ask an ordinary route question and study what she reveals, but her guardedness is not proof of welcome.",
+        "BEAT ab633ed98ca8:e1:b2": "The split alder gives you accurate terrain information and an opportunity to make a preference sound authoritative. Both edges remain open to inspection, and you do not know which standard Red will use.",
+        "BEAT ab633ed98ca8:e1:b3": "Red counts from a pale stone, makes an ordinary mark, and asks for concrete landmarks. You can observe the procedure and answer enough to remain useful; you cannot read its private meaning.",
+        "BEAT ab633ed98ca8:e1:b4": "You can point out the genuinely weak edge, call your preferred edge necessary, and offer to come nearer or steady a foothold. Red still controls access to her body, basket, route, and distance.",
+        "BEAT ab633ed98ca8:e1:b5": "Red's tests may disprove or weaken your necessity claim. You can revise, recast the detour as delay, or preserve apparent choice while observing how she compares the ground and mark.",
+        "BEAT ab633ed98ca8:e1:b6": "Red moves on with the basket, and you have observed enough of her counting, marking, withholding, and verification to inform a later fallible approach. The scene does not establish what that approach will achieve."
+      },
+      "known_context": "You know the woods and can observe Red's direction, footing, basket, answers, marks, and the fading light. You have not been granted her destination, trust, touch, company, or control.",
+      "private_context": "You conceal predatory hunger beneath practical attention and want route knowledge to become influence. You may mistake Red's engagement for an opening, while the visible method gives you information without guaranteeing that you understand her."
+    }
+  },
+  "moments": [
+    {"moment_id": "BEAT ab633ed98ca8:e1:b1", "local_beat_id": "ab633ed98ca8:e1:b1", "pivotal_beat_id": null},
+    {"moment_id": "BEAT ab633ed98ca8:e1:b2", "local_beat_id": "ab633ed98ca8:e1:b2", "pivotal_beat_id": null},
+    {"moment_id": "BEAT ab633ed98ca8:e1:b3", "local_beat_id": "ab633ed98ca8:e1:b3", "pivotal_beat_id": null},
+    {"moment_id": "BEAT ab633ed98ca8:e1:b4", "local_beat_id": "ab633ed98ca8:e1:b4", "pivotal_beat_id": null},
+    {"moment_id": "BEAT ab633ed98ca8:e1:b5", "local_beat_id": "ab633ed98ca8:e1:b5", "pivotal_beat_id": "BEAT-G6-3-1", "predecessor_links": ["BEAT-H1-K2", "BEAT-H1-K4", "BEAT-B4-2B-1", "BEAT-B5-2B-2", "BEAT-B6-2B-1", "BEAT-C1-2C-1", "BEAT-C1-2C-2", "BEAT-CH1-2A-1", "BEAT-CH3-2A-3", "BEAT-CH4-2A-5", "BEAT-CH4-2A-6", "BEAT-CH5-2A-1", "BEAT-CH5-2A-2", "BEAT-CH5-2A-3", "BEAT-CH5-2A-4", "BEAT-CH5-2A-5", "BEAT-CH5-2A-6", "BEAT-CH5-2A-7", "BEAT-G4-3-1", "BEAT-G5-3-2", "BEAT-K2-1-2", "BEAT-K4-1-4", "BEAT-K5-1-1", "BEAT-K5-1-2", "BEAT-K6-1-1", "BEAT-K6-1-2"]},
+    {"moment_id": "BEAT ab633ed98ca8:e1:b6", "local_beat_id": "ab633ed98ca8:e1:b6", "pivotal_beat_id": null}
+  ]
+}

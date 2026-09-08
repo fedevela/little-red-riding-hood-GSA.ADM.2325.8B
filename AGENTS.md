@@ -51,7 +51,11 @@ the two-character cast.
 
 Each episode’s `script.md` contains its complete manuscript: front matter, acts,
 scene headings, and all beats within those scenes. Keep scenes and beats within
-that episode document. The reusable scaffold lives beneath `Script/season_template/`.
+that episode document. Only `script.md` files belong beneath `Script/`.
+Keep every supporting writing artifact under the sibling `Script artifacts/` tree,
+preserving season and episode structure. Quote the folder name in shell commands.
+The blank manuscript scaffold remains beneath `Script/season_template/`; its
+outline guides live beneath `Script artifacts/season_template/`.
 
 Use the character profiles as sustained desires and responsive tendencies. Scene
 objectives, tactics, dialogue, and actions develop through the encounter; profile
