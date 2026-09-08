@@ -488,3 +488,19 @@ Good. Take the next few, then the ground will show you more. I am here if it doe
 
 > *(LITTLE RED RIDING HOOD, CALLED RED: I keep the Wolf in the edge of my sight and remain poised to continue, neither entering the shade nor turning back yet.)*
 <!-- SCENE S1E1-Scene-06-Attention-Cost END -->
+
+<!-- SCENE S1E1-Scene-07-Shelter-With-Terms BEGIN -->
+### SCENE 7 — THE SHELTER WITH TERMS
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b1] -->
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b2] -->
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b3] -->
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b4] -->
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b5] -->
+
+<!-- RESOLVES [BEAT 602eb0f2be2e:e1:b6] -->
+<!-- SCENE S1E1-Scene-07-Shelter-With-Terms END -->
