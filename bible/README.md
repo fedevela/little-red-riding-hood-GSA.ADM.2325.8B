@@ -34,13 +34,29 @@ what divides them, and the thoughts and images through which they find their way
 | conflict_with_others.md | Conflict with Others | The collision of the character’s interests, values, or needs with the other character. |
 | conflict_with_self.md | Conflict with Self | The struggle among doubts, fears, values, and contradictory desires. |
 | conflict_with_environment.md | Conflict with Environment | The struggle with the physical world and the expectations surrounding the character. |
-| line_of_thought.md | Line of Thought | How perception becomes reasoning, decision, inward speech, and spoken expression. |
+| line_of_thought.md | Line of Thought | How perception becomes reasoning, decision, inward speech, and a responsive speaking voice, including cadence, vocabulary, humor, and emotional variation. |
 | line_of_images.md | Line of Images | The familiar images, associations, metaphors, and inward visions that color perception. |
 
 Physical identity belongs to the encounter with the surroundings and to the
 images the character carries; speech grows from thought and comparison. Traits,
 vulnerabilities, and concealed truths live within the objectives and conflicts.
 The seven files together form the whole profile.
+
+## Speaking Voices
+
+[Red's line of thought](characters/little_red_riding_hood/line_of_thought.md#how-thought-reaches-speech)
+and [the Wolf's line of thought](characters/wolf/line_of_thought.md#how-thought-reaches-speech)
+hold their detailed speech definitions and six illustrative utterances apiece.
+Keep each actor's voice instructions within its own seven-file profile; these
+links guide bible readers and do not grant actors access to another profile.
+The examples demonstrate possibilities, not canonical events or required lines.
+
+The [world rules](world_rules.md#historical-context) and
+[aesthetic guidance](theme.md#narrative-tone-and-style) allow contemporary,
+meme-inflected language within woodland reality. Vocabulary serves the immediate
+encounter: neither character needs a catchphrase quota, constant jokes, polished
+thematic speeches, or one unchanging register. The lyrical world leaves room
+for ordinary talk, awkwardness, and unfinished thoughts.
 
 ## Working with the Bible
 

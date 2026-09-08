@@ -13,11 +13,20 @@ Mother belongs to the home Red leaves; grandmother belongs to the destination sh
 
 ## Red — Biography and Belonging
 
-Red is a girl carrying provisions to her grandmother. Her red hood belongs to the familiar world she takes with her; the journey asks her to exercise judgment beyond that world’s immediate shelter. She wants to be useful and capable. She is known as Red, a young girl at the threshold of independence. Home remains close in her affections even as she wants to find her own way.
+Red is a teen girl carrying provisions to her grandmother. Her red hood belongs to the familiar world she takes with her; the journey asks her to exercise judgment beyond that world’s immediate shelter. She wants to be useful and capable. She is known as Red, a young girl at the threshold of independence. Home remains close in her affections even as she wants to find her own way.
+
+Her [speech definition](characters/little_red_riding_hood/line_of_thought.md#how-thought-reaches-speech)
+gives her a contemporary teen voice with quick pivots, light slang, and woodland
+meme phrasing, responsive to courtesy, embarrassment, fear, and the need for a
+plain boundary.
 
 ## Wolf — Biography and Belonging
 
 The Wolf knows the woods and approaches Red with concealed predatory intent. Hunger gives its attention a purpose; the appearance of concern gives it a way to approach. It seeks influence through the encounter itself.
+
+Its [speech definition](characters/wolf/line_of_thought.md#how-thought-reaches-speech)
+gives it an older Southern-US rural cadence, practical warmth, and presumed
+familiarity that can contract into clipped entitlement under pressure.
 
 ## Relationship Overview
 
