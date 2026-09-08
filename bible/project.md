@@ -4,6 +4,10 @@
 
 Little Red Riding Hood
 
+## Playwright
+
+R. Daneel Olivaw
+
 ## Conceptual Subtitle
 
 The Door Between — a working subtitle for a story whose answer remains on the threshold.

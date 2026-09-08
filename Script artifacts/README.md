@@ -2,7 +2,8 @@
 
 ## Manuscript Structure
 
-The reusable scaffold lives in `season_template/Season_N/Episode_N/`.
+The blank manuscript lives in `../Script/season_template/Season_N/Episode_N/`;
+outline templates live here in `season_template/Season_N/Episode_N/`.
 Replace `N` with the appropriate numbers when creating a season from the template.
 
 Seasons contain episodes. Each episode has one `script.md` containing its front
@@ -12,7 +13,7 @@ and directions beneath each marker as the episode develops.
 
 - [Season outline](season_template/Season_N/README.md)
 - [Episode outline](season_template/Season_N/Episode_N/README.md)
-- [Episode N — blank manuscript](season_template/Season_N/Episode_N/script.md)
+- [Episode N — blank manuscript](../Script/season_template/Season_N/Episode_N/script.md)
 
 ## Markdown Play Format
 
@@ -23,7 +24,7 @@ episode manuscript once, followed by its acts and scenes.
 
 | Element | Markdown representation | Page layout when exported |
 | --- | --- | --- |
-| Title page | Title heading, playwright, and contact placeholders. | Center title and playwright; place contact information in a bottom corner. |
+| Title page | Title heading and playwright name. | Center title and playwright. |
 | Dramatis personae | Uppercase character names with age, gender, and relevant traits. | Begin on its own introductory page. |
 | Setting and time | Separate place and time fields. | Present before the dramatic text. |
 | Act and scene headings | Uppercase headings. | Center; underline if desired. |
@@ -33,8 +34,7 @@ episode manuscript once, followed by its acts and scenes.
 | Inline directions | Italicized parentheses inside the dialogue paragraph. | Keep within the dialogue block. |
 
 Markdown supplies the textual structure. The renderer or export stylesheet
-controls exact centering, margins, underlining, page breaks, and bottom-corner
-positioning. Horizontal rules separate front-matter sections in this source.
+controls exact centering, margins, underlining, and page breaks. Horizontal rules separate front-matter sections in this source.
 Two trailing spaces after a character cue place speech on the next line.
 
 Beat markers use Markdown HTML comments, such as
@@ -48,10 +48,6 @@ Keep all scene headings, beat markers, and dialogue in the episode’s `script.m
 # [PLAY TITLE]
 
 [Playwright name]
-
-[Contact name]  
-[Email address]  
-[Additional contact information]
 
 ---
 
