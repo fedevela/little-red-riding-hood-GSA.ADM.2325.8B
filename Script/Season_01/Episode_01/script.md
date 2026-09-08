@@ -127,3 +127,13 @@ I’ll test each step. If the ground gives way, I return to the mark.
 
 > *(Red’s steps carry the basket beyond the bend and into the wet-marked trace. The two-twig mark remains behind her, and the Wolf remains at the road edge as the last light thins.)*
 <!-- SCENE S1E1-Scene-01-Fork END -->
+
+<!-- SCENE crossing-conditional-help BEGIN -->
+### SCENE 2 — THE MARKED CROSSING
+
+<!-- RESOLVES [BEAT 070275abd30b:e1:b1] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b2] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b3] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b4] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b5] -->
+<!-- SCENE crossing-conditional-help END -->

@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "issue": 18,
+  "scene_id": "crossing-conditional-help",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT 070275abd30b:e1:b1",
+    "BEAT 070275abd30b:e1:b2",
+    "BEAT 070275abd30b:e1:b3",
+    "BEAT 070275abd30b:e1:b4",
+    "BEAT 070275abd30b:e1:b5"
+  ],
+  "sources": {
+    "bible": ["bible/README.md", "bible/project.md", "bible/characters.md", "bible/dramatic_arcs.md", "bible/world_rules.md", "bible/theme.md", "bible/relationships.drawio", "bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md", "bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+    "continuity": ["Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-01-Fork/continuity_notes.md"],
+    "treatment": ["Script artifacts/scene_materials/crossing-conditional-help/preparation.md"],
+    "constraints": ["AGENTS.md", "README.md", "bible/world_rules.md", "Script artifacts/scene_materials/crossing-conditional-help/preparation.md"],
+    "skeleton": ["Script artifacts/scene_materials/crossing-conditional-help/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": ["bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md"],
+      "scene_context": "Red continues her late-day journey through the rain-marked trace after choosing it at the blocked road. A washed-out creek now interrupts the route. She carries a secured basket, has one hand available for testing, and can see that the two-twig return mark is behind her. A speaking Wolf may offer terrain knowledge, but Red retains her destination, pace, distance, and judgment.",
+      "moment_contexts": {
+        "BEAT 070275abd30b:e1:b1": "Running brown water and shifting stones interrupt Red's chosen route. The basket must remain protected, daylight is narrowing, and she can inspect the bank, branch, and footing before accepting anything.",
+        "BEAT 070275abd30b:e1:b2": "The Wolf identifies a line of firmer stones and angles a soaked branch toward them. Red can compare those claims with what she sees without granting the Wolf her destination or body.",
+        "BEAT 070275abd30b:e1:b3": "Red can test the first stone and branch herself. The practical information may be useful while the Wolf remains outside the crossing and does not gain authority over her pace or basket.",
+        "BEAT 070275abd30b:e1:b4": "The far bank is reachable by tested steps. Red can leave an independent mark and continue with the basket and route intact while the Wolf remains close enough to make its assistance feel like protection.",
+        "BEAT 070275abd30b:e1:b5": "Red has crossed this obstacle under her own judgment. The branch and mark remain visible behind her; the Wolf's future interpretation is not something Red can know, and the route ahead remains unsettled."
+      },
+      "known_context": "Red knows she chose the wet trace, carries provisions to Grandmother, and can test the creek herself. She knows the Wolf's earlier information was partly useful but did not grant it her company, touch, authority, or destination.",
+      "private_context": "Red privately carries urgency about the errand, a wish to prove her capability, and uncertainty about the cost of needing any fact from the Wolf. She need not disclose those feelings or decide what the Wolf means before acting."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": ["bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+      "scene_context": "The Wolf encounters Red at a washed-out creek within the trace she chose. It knows the terrain well enough to identify firmer stones and bend a soaked branch into a visible marker, but Red remains the owner of her route and the Wolf can know only what observation or speech provides.",
+      "moment_contexts": {
+        "BEAT 070275abd30b:e1:b1": "Red's progress stops at running water, unstable footing, a branch, and a protected basket. The obstacle offers the Wolf a chance to become relevant through accurate terrain knowledge, not a right to intervene.",
+        "BEAT 070275abd30b:e1:b2": "The Wolf can indicate the firmer stones and angle the branch while remaining outside Red's bank. The branch can be genuinely useful, but it cannot guarantee the far route or claim Red's destination.",
+        "BEAT 070275abd30b:e1:b3": "Red's tests make the Wolf's claim answerable to visible evidence. The Wolf can wait, indicate, and adapt to what she accepts or refuses, but cannot read her private judgment or place her body.",
+        "BEAT 070275abd30b:e1:b4": "Red crosses and makes her own mark. The Wolf can frame the branch as protection and observe the route trace, while Red remains able to proceed without being blocked or carried.",
+        "BEAT 070275abd30b:e1:b5": "Red's bounded success gives the Wolf a visible marker from which it may form a later plan. That plan remains the Wolf's fallible interpretation, not proof that Red now needs or welcomes its help."
+      },
+      "known_context": "The Wolf knows the woods and can observe the creek, branch, stones, basket, Red's testing, and the route mark. It knows only what Red has revealed about her errand and has not been granted trust, company, touch, or control.",
+      "private_context": "The Wolf conceals predatory hunger beneath practical concern and wants accurate help to become influence. It tends to mistake access for entitlement; the crossing offers a material trace from which it may plan dependence, but not evidence that its reading is correct."
+    }
+  },
+  "moments": [
+    {"moment_id": "BEAT 070275abd30b:e1:b1", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 070275abd30b:e1:b2", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 070275abd30b:e1:b3", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 070275abd30b:e1:b4", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 070275abd30b:e1:b5", "pivotal_beat_id": "BEAT-G3-3-1", "predecessor_links": ["BEAT-4d6a1d8707fe-1-2", "BEAT-B2-2B-1", "BEAT-B3-2B-1", "BEAT-B3-2B-2", "BEAT-B3-2B-3", "BEAT-C1-2C-1", "BEAT-C1-2C-2", "BEAT-C1-2C-3", "BEAT-CH1-2A-1", "BEAT-CH1-2A-2", "BEAT-CH1-2A-3", "BEAT-CH1-2A-4", "BEAT-CH1-2A-5", "BEAT-CH1-2A-6", "BEAT-G2-3-1", "BEAT-K2-1-2"]}
+  ]
+}

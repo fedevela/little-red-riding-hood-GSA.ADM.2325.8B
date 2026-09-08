@@ -1,0 +1,7 @@
+### SCENE 2 — THE MARKED CROSSING
+
+<!-- RESOLVES [BEAT 070275abd30b:e1:b1] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b2] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b3] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b4] -->
+<!-- RESOLVES [BEAT 070275abd30b:e1:b5] -->
