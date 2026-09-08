@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "issue": 17,
+  "scene_id": "S1E1-Scene-01-Fork",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT comment-5577156092-next:e1:b1",
+    "BEAT comment-5577156092-next:e1:b2",
+    "BEAT comment-5577156092-next:e1:b3",
+    "BEAT comment-5577156092-next:e1:b4",
+    "BEAT comment-5577156092-next:e1:b5",
+    "BEAT comment-5577156092-next:e1:b6"
+  ],
+  "sources": {
+    "bible": [
+      "bible/README.md",
+      "bible/project.md",
+      "bible/characters.md",
+      "bible/dramatic_arcs.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md"
+    ],
+    "continuity": ["Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"],
+    "treatment": ["Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"],
+    "constraints": [
+      "AGENTS.md",
+      "README.md",
+      "bible/world_rules.md",
+      "Script artifacts/scene_materials/S1E1-Scene-01-Fork/preparation.md"
+    ],
+    "skeleton": ["Script artifacts/scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Red begins a purposeful late-day journey carrying provisions to Grandmother. A fallen tree blocks the ordinary road; a rain-marked trace offers uncertain continuation. A speaking Wolf supplies partial terrain information while Red can preserve distance, test the ground, mark the fork, and retain the basket and direction.",
+      "moment_contexts": {
+        "BEAT comment-5577156092-next:e1:b1": "The path is navigable and the basket must arrive intact. Red is already travelling to Grandmother through her own judgment; no Wolf pressure has formed.",
+        "BEAT comment-5577156092-next:e1:b2": "A newly fallen tree blocks the road. The road continues beyond it, but clearing or circling costs daylight and strength. Red must assess rather than follow a familiar rule automatically.",
+        "BEAT comment-5577156092-next:e1:b3": "The Wolf identifies a visible narrow trace and warns of wet ground beyond the bracken. The information is plausible and useful but not fully verifiable; Red may ask for concrete details while holding distance.",
+        "BEAT comment-5577156092-next:e1:b4": "The trace entrance can be tested and the fork can be marked. Red can accept or refuse narrowly practical assistance while keeping the basket, direction, and distance under her control.",
+        "BEAT comment-5577156092-next:e1:b5": "A limit on greater closeness is met by an observable cooling, pause, withheld detail, or sharpened warning. The trace remains available and Red remains able to proceed.",
+        "BEAT comment-5577156092-next:e1:b6": "Delay threatens timely delivery. The trace is risky but passable at its entrance; the Wolf's knowledge has gained attention, not authority. Red's first wet step, basket, and return mark remain hers."
+      },
+      "known_context": "Red knows she is carrying provisions to Grandmother, that daylight is finite, that the ordinary road is blocked, and that the trace has only partly testable footing. She knows the Wolf has supplied information but has not earned command or closeness.",
+      "private_context": "Red privately carries uncertainty about competence, a wish to be trusted, and a need to preserve her account of what she welcomed or resisted. She may notice the Wolf's changed manner before naming its meaning; she remains responsible for choosing what to reveal."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "The Wolf encounters Red at a blocked woodland road and can use genuine terrain knowledge to become relevant. It must remain outside Red's route ownership: it may indicate the wet trace, warn of sinking ground, offer limited help, and adapt to Red's boundaries without blocking her passage.",
+      "moment_contexts": {
+        "BEAT comment-5577156092-next:e1:b1": "No established acquaintance exists. The Wolf is absent or not observable in the opening movement; it cannot know Red's errand before observation or hearing makes it available.",
+        "BEAT comment-5577156092-next:e1:b2": "If within sight or hearing, the Wolf can observe the fallen tree, Red's burden, and any stated purpose. The obstruction creates an opening to present woodland knowledge, not a right to solve the problem for her.",
+        "BEAT comment-5577156092-next:e1:b3": "The Wolf knows the narrow trace and the low ground from familiarity with the woods, but only what Red reveals about her errand. It can make partial accuracy resemble concern while remaining unable to read her private judgment.",
+        "BEAT comment-5577156092-next:e1:b4": "Red's tests turn the Wolf's claim into evidence she can evaluate. The Wolf can indicate the hidden low ground or offer limited aid, but must follow what she actually accepts, refuses, or reveals.",
+        "BEAT comment-5577156092-next:e1:b5": "Red limits the closeness attached to help. The Wolf can cool, withhold, sharpen a warning, or restore a measured tone, but cannot block the trace; its interpretation of her refusal remains fallible.",
+        "BEAT comment-5577156092-next:e1:b6": "Red begins the trace under her own direction. The Wolf can observe the mark, footing, basket, and route, retaining a foothold in attention without openly taking authority; later tactics must treat its reading as uncertain."
+      },
+      "known_context": "The Wolf knows the woods and can identify the low trace and sinking ground. It knows only what Red's observable actions or words make available, and it has not been granted trust, company, the basket, or direction.",
+      "private_context": "The Wolf's concealed predatory objective is to turn useful help into influence and influence into control while appearing welcomed. It tends to mistake access for entitlement and Red's resistance for a problem its patience can solve."
+    }
+  },
+  "moments": [
+    {"moment_id": "BEAT comment-5577156092-next:e1:b1", "pivotal_beat_id": null},
+    {"moment_id": "BEAT comment-5577156092-next:e1:b2", "pivotal_beat_id": null},
+    {"moment_id": "BEAT comment-5577156092-next:e1:b3", "pivotal_beat_id": null},
+    {"moment_id": "BEAT comment-5577156092-next:e1:b4", "pivotal_beat_id": null},
+    {"moment_id": "BEAT comment-5577156092-next:e1:b5", "pivotal_beat_id": null},
+    {
+      "moment_id": "BEAT comment-5577156092-next:e1:b6",
+      "pivotal_beat_id": "BEAT-G2-3-1",
+      "predecessor_links": [
+        "BEAT-H1-K1", "BEAT-B1-2B-1", "BEAT-B2-2B-1", "BEAT-B2-2B-2",
+        "BEAT-C1-2C-1", "BEAT-C1-2C-2", "BEAT-C1-2C-3", "BEAT-CH1-2A-1",
+        "BEAT-CH1-2A-2", "BEAT-CH1-2A-3", "BEAT-CH1-2A-4", "BEAT-CH1-2A-5",
+        "BEAT-G1-3-1", "BEAT-K1-1-1", "BEAT-K2-1-1"
+      ]
+    }
+  ]
+}
