@@ -363,13 +363,60 @@ I mean past where you stand. I do not want you beside me.
 
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b1] -->
 
+> *(The wet trace continues toward darker trees, narrowing beyond the flat stones. The old beech, creek markers, and earlier crossing are behind them. Red's covered basket remains intact, and the retied fastening holds. The Wolf remains several paces behind without entering her route.)*
+
+> *(LITTLE RED RIDING HOOD: I slow at the split alder and study the wet ground around its roots, keeping the basket close without stepping into the darker gap.)*
+
+**LITTLE RED RIDING HOOD**  
+I am following the path I can see. That is all I need to say about my errand.
+
+> *(LITTLE RED RIDING HOOD: I retie the fastening with one firm pull, then choose the clearer edge of the trace and continue, leaving several paces between myself and the Wolf.)*
+
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b2] -->
+
+> *(The split alder lies across the narrowing trace, its pale roots exposed above wet clay. The shorter edge slumps beside a low undercut run of water; the longer edge is more exposed but visibly continuous. Both edges remain physically possible, and neither is established as safe.)*
+
+> *(THE WOLF: I stop several paces behind her and lower my head toward the exposed roots, studying the water-dark clay without entering her route.)*
+
+**THE WOLF**  
+The shorter edge is undercut. Put your weight there and the water may take the ground from beneath you. The longer edge is exposed, but I can see where it holds.
 
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b3] -->
 
+> *(Beyond the alder, the pale stone remains visible beside the trace Red has just walked. Damp bark and leaf litter lie within reach for an ordinary mark, while the two edges and the open space between Red and the Wolf remain inspectable.)*
+
+> *(LITTLE RED RIDING HOOD: I look from the pale stone to the exposed roots, then press my heel into the longer edge where the clay is visibly continuous. With a twig, I scratch one short line in the damp bark beside the trace.)*
+
+**LITTLE RED RIDING HOOD**  
+Beyond the alder, what can I check for myself? A stone, a bend, running water—something that will still be there if I keep to the open ground.
+
+> *(LITTLE RED RIDING HOOD: I wait for the answer without turning fully around, keeping one hand on the basket and my attention on the route across the longer edge.)*
+
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b4] -->
+
+> *(A thin run of water sounds beneath the alder, and the remaining light catches both the exposed longer line and the darker slumped edge. The pale stone and Red’s short bark mark remain visible behind her.)*
+
+> *(THE WOLF: I keep my distance and look past the alder, following the trace until it curves toward the sound of the hidden run of water.)*
+
+**THE WOLF**  
+Beyond the alder, the trace bends toward running water. The open edge is the only one that keeps that bend in sight; the slumped edge will put you below it. If you permit me to come nearer, I can point out where the footing changes—but I will not touch you.
 
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b5] -->
 
+> *(The two edges remain open before them: the shorter line drops toward the undercut water, while the longer exposed line follows firmer visible ground around the washout. The pale stone and Red’s bark mark can still be compared with the obstruction, as the light thins.)*
+
+> *(LITTLE RED RIDING HOOD: I crouch at the longer edge and press the end of a fallen twig into the clay at several points, then glance back to the pale stone and my bark mark. The line remains exposed and continuous, though the wet surface still asks for care.)*
+
+**LITTLE RED RIDING HOOD**  
+Stay there. I can see the change in footing. I will take the open edge slowly, and I will stop if it gives way.
+
+> *(LITTLE RED RIDING HOOD: I secure the basket against my side, place one foot on the tested ground, and cross the longer line without hurrying, keeping the alder between us as long as the route allows.)*
+
 <!-- RESOLVES [BEAT ab633ed98ca8:e1:b6] -->
+
+> *(The longer line carries Red beyond the washout in additional wet steps. The alder and short bark mark fall behind, the light thins under the canopy, and the trace continues ahead without becoming safe. The Wolf remains able to follow at a distance.)*
+
+> *(THE WOLF: I wait until Red has cleared the washout, then place my paws on the same longer line, following several paces behind without closing the distance.)*
+
+> *(THE WOLF: I glance once toward the pale stone and the short line disappearing beside the water, fixing the comparison in memory, then turn my attention to the darkening trace ahead.)*
 <!-- SCENE S1E1-Scene-05-Route-Test END -->
