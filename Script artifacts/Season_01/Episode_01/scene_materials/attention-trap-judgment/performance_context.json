@@ -1,0 +1,58 @@
+{
+  "version": 3,
+  "issue": 23,
+  "scene_id": "attention-trap-judgment",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT 5171a01e981e:e1:b1",
+    "BEAT 5171a01e981e:e1:b2",
+    "BEAT 5171a01e981e:e1:b3",
+    "BEAT 5171a01e981e:e1:b4",
+    "BEAT 5171a01e981e:e1:b5"
+  ],
+  "sources": {
+    "bible": ["bible/README.md", "bible/project.md", "bible/characters.md", "bible/dramatic_arcs.md", "bible/world_rules.md", "bible/theme.md", "bible/relationships.drawio", "bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md", "bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+    "continuity": ["Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-01-Fork/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/crossing-conditional-help/continuity_notes.md", "Script artifacts/Season_01/Episode_01/scene_materials/S1E1-Scene-03-Welcome-With-Terms/continuity_notes.md"],
+    "treatment": ["Script artifacts/scene_materials/attention-trap-judgment/preparation.md"],
+    "constraints": ["AGENTS.md", "README.md", "bible/project.md", "bible/world_rules.md", "bible/theme.md"],
+    "skeleton": ["Script artifacts/scene_materials/attention-trap-judgment/scene_skeleton.md"]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": ["bible/characters/little_red_riding_hood/objective.md", "bible/characters/little_red_riding_hood/hidden_objective.md", "bible/characters/little_red_riding_hood/conflict_with_others.md", "bible/characters/little_red_riding_hood/conflict_with_self.md", "bible/characters/little_red_riding_hood/conflict_with_environment.md", "bible/characters/little_red_riding_hood/line_of_thought.md", "bible/characters/little_red_riding_hood/line_of_images.md"],
+      "scene_context": "Red continues along the wet trace beyond the creek toward grandmother. The covered basket, creek marks, fading late-day light, and an open route remain in view; the Wolf is several paces away and does not block her.",
+      "moment_contexts": {
+        "BEAT 5171a01e981e:e1:b1": "You are walking with the covered basket toward grandmother when the Wolf makes a judgment about your hood, youth, or home. The route remains open; you can ask what it means or refuse the premise.",
+        "BEAT 5171a01e981e:e1:b2": "The Wolf has revised its wording into a narrower question based on what you corrected or what it can see. The path, basket, hood, and finite light give you concrete facts to check while you decide whether to answer.",
+        "BEAT 5171a01e981e:e1:b3": "A small fastening or footing problem interrupts your walking. You can inspect and repair the covered basket yourself while the Wolf offers information or help from outside your chosen distance.",
+        "BEAT 5171a01e981e:e1:b4": "The basket is settled and the route is open, but several steps and some daylight have been spent on the exchange. You are trying to return your attention to grandmother while the Wolf’s manner or position changes nearby.",
+        "BEAT 5171a01e981e:e1:b5": "The Wolf’s latest question still rests on a judgment you have tried to correct, arriving before your walking rhythm fully returns. You can answer narrowly, refuse, continue, or leave the question unanswered; the route and your distance remain available."
+      },
+      "known_context": "Red is carrying provisions to grandmother along the wet trace. She chose this route, has tested earlier terrain herself, and knows the Wolf’s useful information does not grant it authority, touch, company, or control.",
+      "private_context": "Red wants to be capable and trusted, privately worries that managing the Wolf may cost the errand, and is drawing her own account of what is happening without needing to disclose it."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": ["bible/characters/wolf/objective.md", "bible/characters/wolf/hidden_objective.md", "bible/characters/wolf/conflict_with_others.md", "bible/characters/wolf/conflict_with_self.md", "bible/characters/wolf/conflict_with_environment.md", "bible/characters/wolf/line_of_thought.md", "bible/characters/wolf/line_of_images.md"],
+      "scene_context": "The Wolf encounters Red on the wet trace beyond the creek after ordinary travel. It can observe her hood, basket, footing, direction, answers, and the fading light, while remaining several paces away and leaving the route technically open.",
+      "moment_contexts": {
+        "BEAT 5171a01e981e:e1:b1": "Red’s purposeful passage gives you an opening to comment on a visible sign of her identity or belonging. She can hear you from the open route; her pause or demand for precision may be a boundary rather than welcome.",
+        "BEAT 5171a01e981e:e1:b2": "Red’s correction prevents your first broad judgment from holding, but supplies an actual detail from which you can ask a narrower question. You can adjust your listening posture or position without blocking, and you do not know what she has withheld.",
+        "BEAT 5171a01e981e:e1:b3": "A basket fastening or footing shift gives you a visible, genuine practical observation. You can indicate it and offer help from outside her space, but Red retains the basket and decides whether any approach is wanted.",
+        "BEAT 5171a01e981e:e1:b4": "Red has repaired the difficulty and is trying to resume the journey. The open route, intact basket, and remaining light are visible; you can alter warmth or position, but cannot make her departure physically impossible.",
+        "BEAT 5171a01e981e:e1:b5": "Red’s attempted correction and departure have not yielded the access you want, while her precise answers provide material for another narrower question. You can preserve distance and apparent choice, but cannot know whether she will answer or recognize the pattern."
+      },
+      "known_context": "The Wolf knows the woods and can observe Red’s route, basket, footing, hood, answers, and disclosed errand details. It has not been granted trust, touch, company, destination, or control.",
+      "private_context": "The Wolf conceals predatory hunger beneath practical attention and wants access to become influence. It counts pauses as ground gained, may mistake correction for receptiveness, and must keep its next tactic fallible and apparently voluntary."
+    }
+  },
+  "moments": [
+    {"moment_id": "BEAT 5171a01e981e:e1:b1", "local_beat_id": "5171a01e981e:e1:b1", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 5171a01e981e:e1:b2", "local_beat_id": "5171a01e981e:e1:b2", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 5171a01e981e:e1:b3", "local_beat_id": "5171a01e981e:e1:b3", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 5171a01e981e:e1:b4", "local_beat_id": "5171a01e981e:e1:b4", "pivotal_beat_id": null},
+    {"moment_id": "BEAT 5171a01e981e:e1:b5", "local_beat_id": "5171a01e981e:e1:b5", "pivotal_beat_id": "BEAT-G6-3-1", "predecessor_links": ["BEAT-4d6a1d8707fe-1-2", "BEAT-4d6a1d8707fe-1-4", "BEAT-B4-2B-1", "BEAT-B5-2B-1", "BEAT-B6-2B-1", "BEAT-B6-2B-2", "BEAT-B6-2B-3", "BEAT-B6-2B-4", "BEAT-C1-2C-1", "BEAT-CH1-2A-1", "BEAT-CH3-2A-3", "BEAT-CH4-2A-1", "BEAT-CH4-2A-2", "BEAT-CH4-2A-3", "BEAT-CH5-2A-1", "BEAT-CH5-2A-2", "BEAT-CH5-2A-3", "BEAT-CH5-2A-4", "BEAT-G4-3-1", "BEAT-G5-3-1", "BEAT-K2-1-2", "BEAT-K4-1-4", "BEAT-K5-1-1", "BEAT-K5-1-2", "BEAT-K6-1-1", "BEAT-K6-1-2"]}
+  ]
+}

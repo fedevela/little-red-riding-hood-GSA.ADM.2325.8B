@@ -265,3 +265,17 @@ That is enough.
 
 > *(LITTLE RED RIDING HOOD: I keep moving toward grandmother, one hand steadying the basket while my eyes mark the bends and pale stones of the trace. I glance back once to confirm the distance, then turn my attention forward again.)*
 <!-- SCENE S1E1-Scene-03-Welcome-With-Terms END -->
+
+<!-- SCENE attention-trap-judgment BEGIN -->
+### SCENE 4 — JUDGMENT BECOMES INTERROGATION
+
+<!-- RESOLVES [BEAT 5171a01e981e:e1:b1] -->
+
+<!-- RESOLVES [BEAT 5171a01e981e:e1:b2] -->
+
+<!-- RESOLVES [BEAT 5171a01e981e:e1:b3] -->
+
+<!-- RESOLVES [BEAT 5171a01e981e:e1:b4] -->
+
+<!-- RESOLVES [BEAT 5171a01e981e:e1:b5] -->
+<!-- SCENE attention-trap-judgment END -->
