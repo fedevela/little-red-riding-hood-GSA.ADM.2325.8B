@@ -14,7 +14,7 @@ R. Daneel Olivaw
 
 # SETTING & TIME
 
-**Place:** Woodland paths, including a blocked ordinary road and a rain-marked trace beyond the creek.
+**Place:** Woodland paths, including a blocked ordinary road, a rain-marked trace beyond the creek, and a washed-out gully with a root-hollow.
 
 **Time:** A timeless folk-tale world; late day after rain.
 
@@ -494,13 +494,67 @@ Good. Take the next few, then the ground will show you more. I am here if it doe
 
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b1] -->
 
+> *(The trace reaches a washed-out gully. Wet bracken stirs in broken shade, while a narrow shelf runs above slick clay and dark water beside a low root-hollow.)*
+
+> *(THE WOLF: The Wolf turns its head toward the wet bracken, ears pricked, then indicates the slick shelf with its muzzle while keeping the passage clear.)*
+
+**THE WOLF**  
+Wait. Something moved there. The shelf is worse than it looks, and the light is going. There’s a hollow under these roots—dry enough, and easier to reach. Stay beside me until you’re across, and I’ll show you where the clay holds.
+
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b2] -->
+
+> *(The bracken settles without revealing what disturbed it. Silver light catches the narrow shelf; the root-hollow's mouth and a small strip of its rear opening are visible, though the ground within remains partly concealed.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I tighten my hold on the covered basket and crouch at the gully’s edge, testing the clay with the toe of one sturdy shoe. I look from the disturbed bracken to the hollow’s visible rear opening, keeping both routes in sight and the Wolf at a distance.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+What exactly did you see move? And if the hollow is safer, why can I see an opening at the far side? I’ll decide after I’ve checked the ground myself.
+
+> *(THE WOLF: The Wolf moves to the side of the root-hollow’s mouth, leaving its entrance, the rear opening, and the narrow shelf unobstructed. It presses one forepaw into a firmer patch near the roots, testing it without reaching toward Red.)*
+
+**THE WOLF**  
+I didn’t see what it was—only the bracken move. The shelf is slick under the silvering, and the clay gives way near the edge. Check it yourself. The roots here hold better; if you choose the hollow, I’ll stay at its mouth and point out the firm ground.
 
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b3] -->
 
+> *(A thin wash of remaining daylight reaches the hollow’s rear opening, revealing wet earth beyond the roots. Water moves below the shelf, and the gully grows darker around both routes.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I kneel just outside the hollow and extend a fallen twig through the entrance, scraping the visible earth and roots without putting my hands inside. Then I glance toward the darkening shelf and check that the basket’s cover is still fastened.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+You can point out firm ground, but you cannot see all of it. I won’t carry the basket into a place I haven’t checked. I’ll look once more at the shelf, then choose the route that keeps both me and the provisions moving.
+
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b4] -->
+
+> *(As Red shifts at the hollow’s mouth, the basket fastening catches against a raised root. The cover holds, but the basket cannot pass cleanly without changing angle or freeing the snag.)*
+
+> *(THE WOLF: The Wolf lowers its head toward the caught fastening, then places one forepaw beside the raised root without touching the basket or Red. It keeps its body angled away from the shelf, leaving both the shelf and the rear opening clear.)*
+
+**THE WOLF**  
+It’s caught. I can free it without tearing the cover, but not from there. Bring the basket one step nearer and hold it out to me, or leave it with me while you check the shelf. I won’t pull until you choose.
 
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b5] -->
 
+> *(The fastening remains caught at the root. The shelf is still open beside the hollow, but the last light lies thinly across its wet edge.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I draw the basket back toward me instead of offering it over. Keeping one hand on the handle, I kneel outside the hollow and turn the fastening sideways, easing it over the raised root a little at a time.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+Stay where you are. Don’t touch the basket. I’ll free the fastening, and if I need your paw to point, you can point from there.
+
 <!-- RESOLVES [BEAT 602eb0f2be2e:e1:b6] -->
+
+> *(The fastening slips free in Red’s hands. The hollow remains open with its narrow rear opening visible, while the exposed shelf darkens above the moving water.)*
+
+> *(THE WOLF: The Wolf withdraws its forepaw from the root and settles beside the hollow, lowering its head in a restrained nod. Its eyes flick once toward the dark shelf, then return to Red; the entrance, rear opening, and shelf remain clear.)*
+
+**THE WOLF**  
+Good. You kept hold of it. The shelf is slick above moving water, and the light will not help you now. The hollow is the safer passage. If you choose it, stay where I can see your footing and let me guide you from here. If you take the shelf, I will not stop you—but I won’t follow you onto ground I’ve warned you about.
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I stand with the freed basket held against my side, one foot outside the hollow and one still on the firmer root. I look along the shelf to the moving water, then through the hollow toward its narrow rear opening, without stepping into either route.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+I hear you. But safer under your sight is not the same as safe, and your refusing to follow is not proof that the shelf will fail. I need to know what lies beyond that rear opening before I choose where to put my feet.
+
+> *(Water moves beneath the shelf. A strip of fading light remains visible through the hollow’s rear opening. Red and the Wolf hold their positions as the threshold remains undecided.)*
 <!-- SCENE S1E1-Scene-07-Shelter-With-Terms END -->
