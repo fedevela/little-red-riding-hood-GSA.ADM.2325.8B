@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "issue": 17,
+  "scene_id": "S1E1-Scene-01-Fork",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT comment-5577156092-next:e1:b1",
+    "BEAT comment-5577156092-next:e1:b2",
+    "BEAT comment-5577156092-next:e1:b3",
+    "BEAT comment-5577156092-next:e1:b4",
+    "BEAT comment-5577156092-next:e1:b5",
+    "BEAT comment-5577156092-next:e1:b6"
+  ],
+  "sources": {
+    "bible": [
+      "bible/README.md",
+      "bible/project.md",
+      "bible/characters.md",
+      "bible/dramatic_arcs.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md"
+    ],
+    "continuity": [
+      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+    ],
+    "treatment": [
+      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+    ],
+    "constraints": [
+      "AGENTS.md",
+      "README.md",
+      "bible/world_rules.md",
+      "scene_materials/S1E1-Scene-01-Fork/preparation.md"
+    ],
+    "skeleton": [
+      "scene_materials/S1E1-Scene-01-Fork/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Little Red Riding Hood",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Red is carrying provisions to Grandmother through a woodland path. A fallen tree blocks the ordinary road; a wet, partly hidden trace offers a possible continuation while daylight diminishes. The Wolf can be heard or seen as a stranger with partial terrain knowledge, and Red can test the ground, keep distance, mark the fork, and retain the basket and direction.",
+      "moment_contexts": {
+        "BEAT comment-5577156092-next:e1:b1": "The path is navigable and Red is underway with provisions for Grandmother; daylight remains finite and the errand already has purpose.",
+        "BEAT comment-5577156092-next:e1:b2": "A fallen beech or oak blocks the familiar road. The road continues beyond it, but clearing or circling costs strength and daylight and threatens the provisions’ timely delivery.",
+        "BEAT comment-5577156092-next:e1:b3": "A speaking Wolf identifies a narrow trace and warns of wet, sinking ground beyond visible bracken. The warning is plausible but not fully verifiable, and Red can ask from a distance.",
+        "BEAT comment-5577156092-next:e1:b4": "The trace entrance can be tested. Red can inspect footing, make a fallible return mark, accept only limited practical help if she chooses, and keep the basket, distance, and route under her control.",
+        "BEAT comment-5577156092-next:e1:b5": "A limit on closeness is met by an observable cooling in the Wolf’s manner. The trace remains open, but Red must weigh the errand, the useful information, and the altered social temperature.",
+        "BEAT comment-5577156092-next:e1:b6": "The ordinary road remains blocked and delay grows costly. The wet-marked trace is dangerous but passable at its entrance; Red can begin it under her own direction with the basket and return mark."
+      },
+      "known_context": "Red is a young girl at the threshold of independence, carrying provisions to Grandmother. She knows the path, the basket, the obstruction, what she can test, and what the Wolf actually says or does in the encounter; she does not know the Wolf’s purpose or what lies beyond the tested ground.",
+      "private_context": "Red wants to complete the errand through her own judgment and to be trusted before she has proved herself. She is curious and conscientious but privately uncertain about seeming incapable. She may keep suspicion private while protecting her dignity, distance, and ability to carry her own account home. Her stakes are the provisions, safety, freedom to choose, and the cost of delay."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "The Wolf knows the woodland terrain and encounters Red at a blocked road. Its terrain knowledge can identify a wet trace and a concealed sinking patch, but Red’s route, distance, and response remain hers to decide. The scene gives the Wolf opportunities to offer useful information while staying outside her boundary; the Wolf can observe only what she reveals or demonstrates.",
+      "moment_contexts": {
+        "BEAT comment-5577156092-next:e1:b1": "Before the Wolf observes or hears Red, her errand and provisions are not available knowledge. The Wolf may remain absent or enter only through an observable approach.",
+        "BEAT comment-5577156092-next:e1:b2": "If within sight or hearing, the Wolf can observe the fallen tree, Red’s burden, and any purpose she states. The obstruction creates an opening to make terrain knowledge relevant, not authority.",
+        "BEAT comment-5577156092-next:e1:b3": "The Wolf knows the narrow trace and the low ground from familiarity with the woods. Red’s questions and spacing are observable, but her private trust and purpose are not; the Wolf can offer partial, useful warning without command.",
+        "BEAT comment-5577156092-next:e1:b4": "The Wolf can see Red test the trace, mark the fork, keep the basket, and maintain distance. It may offer limited aid or detail, but must respond to what she actually accepts, refuses, or reveals.",
+        "BEAT comment-5577156092-next:e1:b5": "Red’s boundary leaves the Wolf outside the desired closeness. The Wolf knows the trace and remaining light, can alter its pause, voice, spacing, or detail, and cannot block Red’s passage.",
+        "BEAT comment-5577156092-next:e1:b6": "Red begins the wet-marked trace while the ordinary road remains blocked. The Wolf can observe that its knowledge gained attention but not authority; the outcome beyond the trace is unknown and unresolved."
+      },
+      "known_context": "The Wolf knows the woods and can read the visible terrain. It learns Red’s errand, burden, questions, boundaries, and choices only through observation or hearing. It does not know her private suspicion or what account she may carry home.",
+      "private_context": "The Wolf wants to bring Red within reach of its appetite while making influence look like her own choice. It conceals predatory intent beneath practical concern and treats access as entitlement. Its patience is adaptable but fallible: it may mistake attention for welcome and refusal for a problem it can solve. Its stake is preserving a kindly appearance while gaining a foothold in Red’s route."
+    }
+  }
+}
