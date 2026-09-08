@@ -49,10 +49,6 @@ Keep all scene headings, beat markers, and dialogue in the episode’s `script.m
 
 [Playwright name]
 
-[Contact name]  
-[Email address]  
-[Additional contact information]
-
 ---
 
 # DRAMATIS PERSONAE

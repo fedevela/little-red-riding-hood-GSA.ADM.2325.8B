@@ -2,10 +2,6 @@
 
 [Playwright name]
 
-[Contact name]  
-[Email address]  
-[Additional contact information]
-
 ---
 
 # DRAMATIS PERSONAE
