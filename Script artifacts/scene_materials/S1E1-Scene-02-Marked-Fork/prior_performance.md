@@ -357,14 +357,3 @@ I mean past where you stand. I do not want you beside me.
 
 > *(LITTLE RED RIDING HOOD: I keep my eyes on the trace and continue forward without stopping or turning toward the Wolf.)*
 <!-- SCENE attention-trap-judgment END -->
-
-<!-- SCENE S1E1-Scene-02-Marked-Fork BEGIN -->
-### SCENE 5 — THE MARKED FORK
-
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b1] -->
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b2] -->
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b3] -->
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b4] -->
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b5] -->
-<!-- RESOLVES [BEAT e4aac60e4fb7:e1:b6] -->
-<!-- SCENE S1E1-Scene-02-Marked-Fork END -->
