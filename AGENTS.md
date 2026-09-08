@@ -51,7 +51,11 @@ the two-character cast.
 
 Each episode’s `script.md` contains its complete manuscript: front matter, acts,
 scene headings, and all beats within those scenes. Keep scenes and beats within
-that episode document. The reusable scaffold lives beneath `Script/season_template/`.
+that episode document. Only `script.md` files belong beneath `Script/`.
+Keep every supporting writing artifact under the sibling `Script artifacts/` tree,
+preserving season and episode structure. Quote the folder name in shell commands.
+The blank manuscript scaffold remains beneath `Script/season_template/`; its
+outline guides live beneath `Script artifacts/season_template/`.
 
 Use the character profiles as sustained desires and responsive tendencies. Scene
 objectives, tactics, dialogue, and actions develop through the encounter; profile
@@ -78,9 +82,9 @@ Bible revision develops foundations; scenes, beats, and scripts belong under
 
 Use the creative-writer workflow's applicable stages and artifact contracts,
 including its human decision points. Before an automated run, consult the
-[runtime compatibility note](README.md#runtime-compatibility): the character-file
-contract and scene-level delivery still need to be adapted to these dimensions
-and the episode manuscript. Develop Season 1 materials beneath
+[runtime compatibility note](README.md#runtime-compatibility) and use the updated
+harness supporting these character dimensions and the episode manuscript.
+Develop Season 1 materials beneath
 `Script/Season_01/`, keeping the bible as the canonical foundation. Trace scene
 responsibilities to assigned story beats. Prepare scene handoffs when their real
 inputs are available; writing instructions alone do not establish readiness for
