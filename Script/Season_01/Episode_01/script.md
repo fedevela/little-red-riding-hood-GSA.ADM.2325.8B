@@ -14,7 +14,7 @@ R. Daneel Olivaw
 
 # SETTING & TIME
 
-**Place:** Woodland paths, including a blocked ordinary road and a rain-marked trace.
+**Place:** Woodland paths, including a blocked ordinary road and a rain-marked trace beyond the creek.
 
 **Time:** A timeless folk-tale world; late day after rain.
 
@@ -271,11 +271,89 @@ That is enough.
 
 <!-- RESOLVES [BEAT 5171a01e981e:e1:b1] -->
 
+> *(Wet leaves shine beneath the thinning canopy. The creek's sound recedes behind the open trace, where Red carries the covered basket toward grandmother. Several paces away, the Wolf is visible without blocking the route.)*
+
+> *(THE WOLF: The Wolf remains several paces off the trace, its head tilting as its eyes follow the red hood and the careful progress of the covered basket.)*
+
+**THE WOLF**  
+That hood makes you easy to notice in these woods. Your home sent you out alone with a basket, and trusts the path to be kinder than it is.
+
+> *(The wet trace continues ahead through bracken. For a moment, the interrupted footfall leaves only dripping leaves and the fading creek behind them.)*
+
+> *(LITTLE RED RIDING HOOD: I adjust the basket securely against my arm and keep walking along the wet trace, leaving several paces between us.)*
+
+**LITTLE RED RIDING HOOD**  
+My hood tells you what color I wear. My home tells you where I came from. Neither tells you whether I can judge this path.
+
 <!-- RESOLVES [BEAT 5171a01e981e:e1:b2] -->
+
+> *(Red's steps carry her a little farther along the wet trace. The route remains passable, though bracken and the lowering light make each pause more costly.)*
+
+> *(THE WOLF: The Wolf lets her gain another step, keeping to the side of the trace and making no move to narrow the space between them.)*
+
+**THE WOLF**  
+No—they do not. I can only see that you are walking carefully, and that the light is leaving. Is the person you visit far from here?
+
+> *(A drop slips from the canopy onto the basket’s cover. Ahead, the trace bends through wet bracken toward the dimmer trees.)*
+
+> *(LITTLE RED RIDING HOOD: I glance once toward the bend, check the basket's cover, and continue at a steady pace without shortening the distance between us.)*
+
+**LITTLE RED RIDING HOOD**  
+Far enough that I should keep moving while there is light. The trace is passable, and I know where I am going.
 
 <!-- RESOLVES [BEAT 5171a01e981e:e1:b3] -->
 
+> *(The trace dips over a slick root. The basket’s cover gives a faint scrape against the cloth, and one fastening sits visibly looser than before.)*
+
+> *(THE WOLF: The Wolf pauses at the edge of the trace, watching the loosened fastening without stepping toward Red or reaching for the basket.)*
+
+**THE WOLF**  
+Your basket’s fastening has slipped on the root. I can see the cover scraping. If you want, I can tell you where the trace widens so you can stop and secure it without standing in the bracken.
+
+> *(LITTLE RED RIDING HOOD: I stop on the near side of the root, inspect the fastening myself, and keep the basket held close. I look toward the trace ahead, judging the wider ground before moving.)*
+
+**LITTLE RED RIDING HOOD**  
+I see it. Tell me only where the trace widens; I will secure it there myself.
+
+> *(THE WOLF: The Wolf lifts one paw toward the trace ahead, indicating the ground beyond the bent alder without moving closer.)*
+
+**THE WOLF**  
+Beyond the bent alder, where the moss gives way to flat stones. The ground widens there for three or four paces. The root stays slick behind you.
+
+> *(Beyond the bent alder, a short patch of flat stones breaks through the moss. The trace remains open toward the darker trees.)*
+
+> *(LITTLE RED RIDING HOOD: I move carefully beyond the bent alder onto the flat stones, keeping the basket against my side. There I tighten the fastening and check the cover before continuing.)*
+
+**LITTLE RED RIDING HOOD**  
+Thank you. That is enough.
+
 <!-- RESOLVES [BEAT 5171a01e981e:e1:b4] -->
 
+> *(The fastening holds. A little more of the late light has drained from the wet leaves while the trace continues beyond the flat stones.)*
+
+> *(THE WOLF: The Wolf shifts farther into the wet bracken, clearing the stones and leaving the trace open toward the darker trees.)*
+
+**THE WOLF**  
+Then keep moving while you can still see the stones. I will not follow your errand.
+
+> *(The stones end a few paces ahead. Beyond them, the trace narrows again beneath wet branches, with enough remaining light to see its direction.)*
+
+> *(LITTLE RED RIDING HOOD: I take several careful steps beyond the stones, keeping the trace and its direction in sight as the branches close overhead.)*
+
+**LITTLE RED RIDING HOOD**  
+Good. Then leave the path open and let me pass.
+
 <!-- RESOLVES [BEAT 5171a01e981e:e1:b5] -->
+
+> *(The trace remains open ahead, though the wet branches make its continuation less visible. One possible footstep sounds on the leaf-covered ground, then the space between them holds.)*
+
+> *(THE WOLF: The Wolf stays in the bracken, its body angled away from the trace so the passage remains clear.)*
+
+**THE WOLF**  
+Pass, then. You mean past where I stand—not that you want me beside you?
+
+**LITTLE RED RIDING HOOD**  
+I mean past where you stand. I do not want you beside me.
+
+> *(LITTLE RED RIDING HOOD: I keep my eyes on the trace and continue forward without stopping or turning toward the Wolf.)*
 <!-- SCENE attention-trap-judgment END -->
