@@ -420,3 +420,13 @@ Stay there. I can see the change in footing. I will take the open edge slowly, a
 
 > *(THE WOLF: I glance once toward the pale stone and the short line disappearing beside the water, fixing the comparison in memory, then turn my attention to the darkening trace ahead.)*
 <!-- SCENE S1E1-Scene-05-Route-Test END -->
+
+<!-- SCENE S1E1-Scene-06-Attention-Cost BEGIN -->
+### SCENE 6 — THE ATTENTION COST
+
+<!-- RESOLVES [BEAT 4db8a22db762:e1:b1] -->
+<!-- RESOLVES [BEAT 4db8a22db762:e1:b2] -->
+<!-- RESOLVES [BEAT 4db8a22db762:e1:b3] -->
+<!-- RESOLVES [BEAT 4db8a22db762:e1:b4] -->
+<!-- RESOLVES [BEAT 4db8a22db762:e1:b5] -->
+<!-- SCENE S1E1-Scene-06-Attention-Cost END -->
