@@ -204,11 +204,64 @@ I’ll remember the warning. Grandmother is still ahead.
 
 <!-- RESOLVES [BEAT 8a9a7a25ceee:e1:b1] -->
 
+> *(The faint creek recedes behind them. Wet leaves release intermittent drops, and the open trace ahead glistens under thinning late-day light. The Wolf remains several paces away.)*
+
+> *(LITTLE RED RIDING HOOD: I pause beneath the dripping branches and lift the cover just enough to check that the provisions are dry and secure. I settle the cover again, tighten the basket against my arm, and study the glistening trace ahead.)*
+
+**LITTLE RED RIDING HOOD**  
+I’m going on. You may tell me if the trace becomes impassable, but I’ll choose where I stop.
+
+> *(LITTLE RED RIDING HOOD: I resume walking at my own measured pace, keeping the Wolf several paces behind and my attention divided between the path and the basket.)*
+
 <!-- RESOLVES [BEAT 8a9a7a25ceee:e1:b2] -->
+
+> *(A few paces ahead, slick roots cross the trace and a soft shelf gives way toward wet bracken. The route remains open, but the next footing is uncertain and can be tested.)*
+
+**THE WOLF**  
+The roots ahead are slick, and the shelf gives toward the bracken. Keep to the pale stones just left of the trace for three steps; test each one. The route is open, but I would not call it firm.
+
+> *(THE WOLF: I remain several paces behind, angling my muzzle toward the pale stones without entering her path, then wait for her choice.)*
+
+> *(LITTLE RED RIDING HOOD: I shift the basket higher against my hip and press the toe of my shoe into the first pale stone. It holds. I place my weight on it slowly, watching the edge of the shelf rather than the Wolf.)*
+
+**LITTLE RED RIDING HOOD**  
+Thank you. I’ll test the others myself.
+
+> *(LITTLE RED RIDING HOOD: I reach the second stone without hurrying, pause to feel it settle beneath me, then choose the firmest-looking ground for the next step while keeping the distance behind me unchanged.)*
 
 <!-- RESOLVES [BEAT 8a9a7a25ceee:e1:b3] -->
 
+> *(The pale stones hold beneath Red's tested steps. Beyond the slick roots, the trace widens briefly into firmer ground, leaving the space between them open.)*
+
+> *(THE WOLF: I take one measured step nearer on the firm ground, stopping well outside her path and leaving the distance open for her to refuse.)*
+
+**THE WOLF**  
+The worst of that stretch is behind you. If you want, I can walk nearer and call out the next weak places sooner. If you want the distance kept as it is, I’ll keep it.
+
+**LITTLE RED RIDING HOOD**  
+Keep the distance as it is. Call out what you see, and I’ll decide whether the ground agrees.
+
+> *(LITTLE RED RIDING HOOD: I continue onto the firmer stretch, keeping my pace steady and the basket close, with the open space between us unchanged.)*
+
 <!-- RESOLVES [BEAT 8a9a7a25ceee:e1:b4] -->
 
+> *(The trace stays open beyond the firm ground. A pocket of reflected light fades as the wet canopy shifts, and the Wolf's nearer position remains outside Red's route.)*
+
+> *(THE WOLF: I ease back to the several paces she first chose, keeping the open trace entirely clear between us.)*
+
+**THE WOLF**  
+Then I’ll call out only what I see. You’ll decide what the ground says.
+
+**LITTLE RED RIDING HOOD**  
+That is enough.
+
+> *(LITTLE RED RIDING HOOD: I keep walking without trying to restore the earlier warmth. I test the damp ground with each step, glance once toward the fading light, and hold the basket securely against me.)*
+
 <!-- RESOLVES [BEAT 8a9a7a25ceee:e1:b5] -->
+
+> *(The trace continues toward the dimming woods. Red's footsteps and the basket's faint shift lead forward; the Wolf's separate footfalls remain behind her, outside the route.)*
+
+> *(THE WOLF: I follow in silence several paces behind, matching neither her pace too closely nor the rhythm of her steps, keeping the trace open between us.)*
+
+> *(LITTLE RED RIDING HOOD: I keep moving toward grandmother, one hand steadying the basket while my eyes mark the bends and pale stones of the trace. I glance back once to confirm the distance, then turn my attention forward again.)*
 <!-- SCENE S1E1-Scene-03-Welcome-With-Terms END -->
