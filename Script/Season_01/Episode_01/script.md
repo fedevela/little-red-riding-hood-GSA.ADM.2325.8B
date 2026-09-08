@@ -425,8 +425,66 @@ Stay there. I can see the change in footing. I will take the open edge slowly, a
 ### SCENE 6 — THE ATTENTION COST
 
 <!-- RESOLVES [BEAT 4db8a22db762:e1:b1] -->
+
+> *(The late-day wet trace tightens between dripping bracken and a low root-raised bank. A damp shelf gives slightly beneath Red's next step; the covered basket shifts against her hip. Several paces behind, the Wolf remains outside the route. A firmer patch is visible ahead.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I steady the basket against my hip, test the firmer patch ahead with the toe of my shoe, and take one careful step toward it.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+I can manage this stretch. Stay where you are, please; I will keep to my own pace.
+
+> *(THE WOLF: I remain several paces back, lowering my head toward the wet trace without entering it.)*
+
+**THE WOLF**  
+Then keep your pace. The bank takes weight badly on its left side; place your next step on the dark root, then the pale stones beyond it. If the basket begins to pull you sideways, say so, and I will carry it from here without coming nearer until you ask me to.
+
 <!-- RESOLVES [BEAT 4db8a22db762:e1:b2] -->
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I shift the basket higher against my hip, place my foot on the dark root, and cross toward the pale stones with my eyes on the ground.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+Thank you. I will keep the basket and take this slowly. I will tell you if that changes.
+
+> *(THE WOLF: I stop at the edge of the trace, leaving the distance she chose between us, and watch the basket settle against her hip.)*
+
+**THE WOLF**  
+As you like. The stones will hold if you keep to their middle. *(My voice remains mild, though the warmth has narrowed.)* Call if the ground changes its mind.
+
 <!-- RESOLVES [BEAT 4db8a22db762:e1:b3] -->
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I pause long enough to press my shoe against the next stone and look beyond it for where the trace remains firm, keeping the basket close.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+I heard you. I will call if I need to—but I am continuing now.
+
+> *(Water moves somewhere beneath the root-raised bank. Ahead, a fresh pale break shows in the wet bark beside a darker stretch of trace; the passage remains visible, but what caused the break cannot be seen from here.)*
+
+> *(THE WOLF: I remain behind her, one forepaw lifted briefly toward the broken pale mark, then set it down without advancing.)*
+
+**THE WOLF**  
+Wait—look beside the dark stretch, not just at the stones. That pale break in the bark is fresh. Water may have taken the ground under it, or something may have passed through; I cannot see which. Keep to the pale stones if you go, and do not put your weight on that darker strip.
+
 <!-- RESOLVES [BEAT 4db8a22db762:e1:b4] -->
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I lean just far enough to inspect the pale break without touching it, then keep my feet on the pale stones and skirt the darker strip. The basket stays against my hip.)*
+
+**LITTLE RED RIDING HOOD, CALLED RED**  
+I see it. I will avoid the dark ground and take only the next few steps.
+
+> *(THE WOLF: I remain still beyond the route, making no move to narrow the space between us.)*
+
+**THE WOLF**  
+Good. Take the next few, then the ground will show you more. I am here if it does not.
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I take three small steps across the pale stones, pausing between them to press each one with my shoe before trusting it. The basket remains secure against my hip.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: At the visible opening, I glance back and measure the space between us. The Wolf has kept it, so I turn toward the path again.)*
+
 <!-- RESOLVES [BEAT 4db8a22db762:e1:b5] -->
+
+> *(The pale stones give way to a visible opening where the trace continues between wet limbs. Cool light remains on the immediate threshold while shade gathers behind it; the Wolf is still readable at a distance.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I stop at the opening with one foot still on the pale stones. I steady the basket, look through the wet limbs, and listen before deciding on the next step.)*
+
+> *(LITTLE RED RIDING HOOD, CALLED RED: I keep the Wolf in the edge of my sight and remain poised to continue, neither entering the shade nor turning back yet.)*
 <!-- SCENE S1E1-Scene-06-Attention-Cost END -->
