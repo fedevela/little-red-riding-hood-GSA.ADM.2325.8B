@@ -132,8 +132,69 @@ I’ll test each step. If the ground gives way, I return to the mark.
 ### SCENE 2 — THE MARKED CROSSING
 
 <!-- RESOLVES [BEAT 070275abd30b:e1:b1] -->
+
+> *(Running brown water cuts across the rain-marked trace. The near bank has loosened, stones appear and vanish beneath the surface, and a soaked branch rests within reach. The basket remains covered; daylight is thinning.)*
+
+> *(LITTLE RED RIDING HOOD: Red tightens the basket's cover and strap, then crouches at the near bank. She presses the soaked branch into the mud and nudges the nearest stone, watching both shift beneath the brown current.)*
+
+**LITTLE RED RIDING HOOD**  
+I can see the water. What I need to know is where the bank holds on the far side.
+
 <!-- RESOLVES [BEAT 070275abd30b:e1:b2] -->
+
+> *(Across the creek, a broken line of darker stones briefly shows beneath the clearing water. The soaked branch can be bent toward that line without either bank being blocked.)*
+
+> *(THE WOLF: The Wolf stays on the near bank, bends the soaked forked branch toward the first visible firm stone, then angles its tip toward the darker line on the far side. It leaves both banks clear.)*
+
+**THE WOLF**  
+There. The first stone holds. Follow the darker line, but test each step; the water has taken more than it shows.
+
 <!-- RESOLVES [BEAT 070275abd30b:e1:b3] -->
+
+> *(The branch settles into its new angle, creaking under its own wet weight. Brown water clears briefly around the first indicated stone, then clouds again.)*
+
+> *(LITTLE RED RIDING HOOD: Red keeps the basket pressed high against her chest with one arm. With the other, she plants the branch on the near bank and leans its tip onto the first stone, waiting until the current has passed around it before shifting her weight.)*
+
+> *(LITTLE RED RIDING HOOD: She places one sturdy shoe on the stone, pauses, and tests it with her full weight. When it holds, she withdraws her foot and looks along the darker line before choosing the next step.)*
+
+**LITTLE RED RIDING HOOD**  
+I’ll test each one. If the line breaks, I’m coming back.
+
+> *(THE WOLF: The Wolf remains still on the near bank, watching the water clear and close around the stones. It lowers one paw to indicate a second dark stone only when its edge becomes visible, then withdraws it.)*
+
+**THE WOLF**  
+Then come back. The line is only good while the creek leaves it visible. If this one breaks, I may find another crossing upstream.
+
 <!-- RESOLVES [BEAT 070275abd30b:e1:b4] -->
+
+> *(The creek opens and closes over the darker stones. The far bank remains reachable by a careful sequence, though its mud is soft and the light has thinned beneath the wet canopy.)*
+
+> *(LITTLE RED RIDING HOOD: Red secures the basket against her chest, braces the branch, and steps onto the first stone. She waits, tests the second with her shoe, then crosses one measured step at a time, stopping whenever the water clouds her view.)*
+
+> *(LITTLE RED RIDING HOOD: At the far bank, she plants the branch above the soft mud and presses three short marks into the wet earth where they will remain visible from the trace.)*
+
+**LITTLE RED RIDING HOOD**  
+I crossed it. The mark is mine, so I can find this place again.
+
+> *(The branch rests above the soft far-bank mud, pointing back across the water. Red's three short marks remain visible from the trace as the creek continues beneath the fading light.)*
+
+> *(THE WOLF: The Wolf gives the branch one final adjustment so it rests visibly above the soft mud, then steps back from the bank and leaves the crossing open.)*
+
+**THE WOLF**  
+Yours, then. Keep the branch where you can see it in the dimness; the far mud will take a careless footprint.
+
 <!-- RESOLVES [BEAT 070275abd30b:e1:b5] -->
+
+> *(Beyond the creek, the wet trace narrows between dark trunks. Red’s marks and the angled branch remain behind her while the last usable light fades through the canopy.)*
+
+> *(LITTLE RED RIDING HOOD: Red checks the basket's cover and settles its strap against her shoulder. She leaves the three marks and the creek behind, following the narrowing trace at a careful, steady pace.)*
+
+**LITTLE RED RIDING HOOD**  
+I’ll remember the warning. Grandmother is still ahead.
+
+> *(Red’s footsteps recede along the wet trace. Behind her, the creek continues under the angled branch, and the three marks remain in the soft mud as the woods darken.)*
+
+> *(THE WOLF: The Wolf waits until Red's footsteps fade, then remains beside the creek without following. It studies the three marks, the branch, and the narrowing trace until the dark makes them indistinct.)*
+
+> *(THE WOLF: It leaves the branch where Red placed it and slips into the shadow beside the near bank, keeping its plan to itself.)*
 <!-- SCENE crossing-conditional-help END -->
