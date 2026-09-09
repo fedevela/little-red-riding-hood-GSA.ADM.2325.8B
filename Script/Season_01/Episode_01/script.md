@@ -312,3 +312,25 @@ Past the trunks the roots run across for about twenty paces, then the ground lev
 
 > *(Red passes between the two trunks and onto the path beyond. The roots arrive at the promised distance. The Wolf remains where it was, at the same distance, in the same position. The ambient holds — birdsong, canopy, path texture underfoot — unchanged by everything that happened inside it.)*
 <!-- SCENE issue-69 END -->
+
+<!-- SCENE issue-70 BEGIN -->
+### SCENE 2 — YOU NOTICE THINGS
+
+<!-- RESOLVES [BEAT issue-70-B001] -->
+
+<!-- RESOLVES [BEAT issue-70-B002] -->
+
+<!-- RESOLVES [BEAT issue-70-B003] -->
+
+<!-- RESOLVES [BEAT issue-70-B004] -->
+
+<!-- RESOLVES [BEAT issue-70-B005] -->
+
+<!-- RESOLVES [BEAT issue-70-B006] -->
+
+<!-- RESOLVES [BEAT issue-70-B007] -->
+
+<!-- RESOLVES [BEAT issue-70-B008] -->
+
+<!-- RESOLVES [BEAT issue-70-B009] -->
+<!-- SCENE issue-70 END -->
