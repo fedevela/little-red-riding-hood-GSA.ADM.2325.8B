@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "issue": 71,
+  "scene_id": "issue-71",
+  "manuscript_path": "Script/Season_01/Episode_02/script.md",
+  "required_moment_ids": [
+    "BEAT issue-71-B001",
+    "BEAT issue-71-B002",
+    "BEAT issue-71-B003",
+    "BEAT issue-71-B004",
+    "BEAT issue-71-B005",
+    "BEAT issue-71-B006",
+    "BEAT issue-71-B007",
+    "BEAT issue-71-B008"
+  ],
+  "sources": {
+    "bible": [
+      "bible/characters.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/dramatic_arcs.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md"
+    ],
+    "continuity": [
+      "Script artifacts/scene_materials/issue-71/prior_performance.md"
+    ],
+    "treatment": [
+      "Script artifacts/scene_materials/issue-71/preparation.md"
+    ],
+    "constraints": [
+      "Script artifacts/scene_materials/issue-70/dramatic_action_brief.md"
+    ],
+    "skeleton": [
+      "Script artifacts/scene_materials/issue-71/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [
+    "bible/characters.md",
+    "bible/world_rules.md",
+    "bible/theme.md",
+    "bible/dramatic_arcs.md"
+  ],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Red",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Episode 2, Act 1, Scene 1. Red is past the old-growth canopy on the path to grandmother's house. The earth underfoot is softer than the packed old-growth surface — the yielding quality the Wolf described at the close of Episode 1, now arrived underfoot exactly as predicted. The basket is in her left hand; the bread is cool, the warmth from the gate long gone. The ford is behind her — she crossed it before the second bend, near bank firm, approach entirely ordinary. Both bends are behind her. She carries three items of private inventory from Episode 1: the birchwood inconsistency (the Wolf named the turning for the far houses before she disclosed her destination), the endearment-and-cooling sequence (warmth contracting after her refusal of company), and the unanswered extension at Episode 1's close (the Wolf placed itself in the journey's continuation without asking permission). The Wolf's practical credibility is confirmed and continuous — every direction it gave proved accurate. The company has continued on the ambiguity of the unanswered extension. She has not yet been tested against an invented claim.",
+      "moment_contexts": {
+        "BEAT issue-71-B001": "Red is on the path in the thinned canopy section. The softer earth underfoot has arrived exactly as the Wolf described — fresh confirmation of its accuracy in her feet before her attention named it. The company from Episode 1 has continued without her explicitly sanctioning it. She is carrying the basket in her left hand, forward on the path, reading the new terrain as she has read every terrain this morning. The morning's accumulation sits beneath her courtesy; she is not at high vigilance yet. Her objective is to continue toward grandmother and keep the exchange in its ordinary register without expenditure. The Wolf is about to introduce a ford claim; she does not yet know this.",
+        "BEAT issue-71-B002": "The Wolf has named a ford ahead — its position past the second bend, the near bank described as taking overnight runoff, a recommendation to keep right to the stones. The claim has arrived in the same practical register as every verified direction before it. She is receiving it in forward motion. Her mental record of the walk has its ford, and it is behind her — before the second bend, near bank firm. The claim is landing in her hearing and attempting to locate itself on that record.",
+        "BEAT issue-71-B003": "The word *ford* or *crossing* has arrived in her hearing and is attempting to locate itself on her mental record of the morning's walk. It does not land. The ford in her record is behind her — before the second bend, near bank firm — and the described position (past the second bend) has no referent in front of her on the path. The wrongness is a failure of fit, not yet a named inconsistency. Her gaze drops toward the ground ahead of her feet — her established habit when terrain's accounting has not balanced. Three steps of continued walking. No vocal response.",
+        "BEAT issue-71-B004": "Three steps have done their work. The shape of the wrongness has a location. The probe forms from what the body found: the ford claim cannot settle on the path in front of her because the ford was before the second bend, and the near bank was firm. She asks a navigation question — the lateral re-ask that sounds like checking her own map rather than interrogating the claim. The probe contains the word for the crossing and names the second bend as the landmark, arriving as a fragment with a self-correction mid-sentence. She is confirming the inconsistency by asking, not announcing it as confirmed. The Wolf will read apparent uncertainty as an opening.",
+        "BEAT issue-71-B005": "The Wolf's answer has come quickly — the quickness preceding any elaboration. The ford's position has been adjusted; the landmark has moved rather than been corrected. The new description has its own small wrongness. She holds both: the original claim (ford past the second bend) and the revised claim (ford at an adjusted position). The compression in the Wolf's cadence before the warmth reconstituted is the tell. Both claims are now in inventory alongside what her body knows.",
+        "BEAT issue-71-B006": "The revision is complete. She has the original claim, the revised claim, and what her feet know, held alongside each other. The holding is active — the same quiet effort as every other item of private inventory she has accumulated since the birchwood fork. Her exterior gives nothing away: no changed grip, no held breath, no pause that runs long. The inventory is taking its filed form: the ford before the second bend; the Wolf placed it after; the near bank was firm. Three facts, not a feeling.",
+        "BEAT issue-71-B007": "The filed inventory is present. The thank-you is the surface close of the exchange. It must arrive in its ordinary shape and ordinary timing — the same register as every previous thank-you in the encounter, the *that helps, thank you* texture established in Episode 1. Nothing in its form announces the filing beneath it. The Wolf will read the thank-you as confirmation the revision landed.",
+        "BEAT issue-71-B008": "The exchange has closed on its surface. She is walking forward. Basket in her left hand. No backward glance, no tightened grip, no visible marker of what she is carrying. The continued steady pace of a person carrying what she came in with plus something new. Grandmother is still at the path's other end. The bread is cool. She now carries four items of private inventory: the birchwood inconsistency, the endearment sequence, the unanswered extension, and the topographical crack — three specific facts available for retrieval at the Episode 3 threshold without requiring additional exposition."
+      },
+      "known_context": "Red is a teen girl carrying provisions to grandmother. Her hood is the familiar world she takes with her. She wants to be useful and capable and to complete the journey through her own judgment. She knows the path she has walked this morning: the gate, the birch stand, the older trees, the fork, the root-crossing cluster, the old growth, the ford before the second bend (near bank firm, approach ordinary), the second bend, the canopy thinning. The Wolf's practical claims have all proved accurate. She has been in the Wolf's company since before the birchwood fork, without having invited it.",
+      "private_context": "She holds three unresolved inventory items from Episode 1: (1) the birchwood inconsistency — the Wolf named the turning for the far houses before she disclosed her destination; (2) the endearment-and-cooling sequence — the *honey* mid-offer, the warmth contracting shorter after her refusal; (3) the unanswered extension at Episode 1's close — the Wolf placed itself in the journey's continuation without asking. She has not named any of these aloud. Her objective is grandmother: the bread is cool, the clock is running, the errand's claim on her attention is the most important thing she came onto this path carrying. She is skeptical enough to probe but not yet ready to name what she suspects. The morning's accumulation has cost something without closing anything out."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "Episode 2, Act 1, Scene 1. The Wolf is on the path with Red in the thinned canopy section past the old growth. The company has continued from Episode 1 — it placed itself in the journey's continuation at Episode 1's close and Red's non-answer filed as tacit acceptance. Its practical credibility is confirmed: every direction it gave in Episode 1 proved accurate, and the terrain it described has arrived underfoot as predicted. The fourth attempt — introducing an invented topographical hazard — is the design for this scene. The ford it intends to name is the ford Red has already crossed; it does not know she has a physical memory of that crossing that makes the claim testable.",
+      "moment_contexts": {
+        "BEAT issue-71-B001": "The Wolf is in the company position it placed itself in at Episode 1's close. Its expertise claim is intact and confirmed. The occasion for the fourth attempt is available: the company has continued, the terrain is new, and the claim can arrive in the ordinary practical register it has established across four scenes. Red is in motion on the path; the softer earth underfoot is the most recent confirmation of its accuracy. Its objective is to introduce the ford claim in the practical register that has proven effective.",
+        "BEAT issue-71-B002": "The Wolf has introduced the ford claim. It has named the ford's position (past the second bend), the near bank's condition (overnight runoff, top inch gives when weighted toward the left where the bank flattens), and the recommended line (right, to the stones, avoid the central stone). The claim arrives in the same unhurried Southern cadence as every previous verified direction. It has delivered position before condition — the same structure as the prior accurate directions. It is waiting for her reception, reading its own authority as intact.",
+        "BEAT issue-71-B003": "Red is continuing to walk. Her gaze has gone to the path surface ahead of her feet; three steps of continued forward motion are occurring without a vocal response. The Wolf reads this as attentive reception of practical terrain information — the gaze-drop consistent with someone taking the claim seriously. It does not know the claim has failed to locate itself on her mental record.",
+        "BEAT issue-71-B004": "Red has asked a navigation question about the ford's position. It is in the form of someone checking her own map — a fragment with a self-correction mid-sentence, the second bend named as the landmark, apparent uncertainty about the sequence. The Wolf reads the uncertainty as an opening: she is confused about the order of bends, she might have it wrong, the question invites correction. Its objective is to answer quickly and move the landmark in a way that makes the original description vanish rather than stand corrected.",
+        "BEAT issue-71-B005": "The Wolf has answered quickly. The quickness preceded any elaboration; the elaboration followed. The ford's position has been adjusted — the landmark moved rather than corrected. The new description is smooth enough that a less attentive listener would follow it without noting the substitution. The warmth has reconstituted. From the Wolf's position: the difficulty has been resolved, the probe was answered, the exchange is proceeding. It does not know the quickness was legible as a tell.",
+        "BEAT issue-71-B006": "The revision has been given; the warmth is present. Red's exterior is unchanged — attending, forward, receiving the elaboration in the same posture she has brought to every previous practical exchange. The Wolf reads the unchanged exterior as confirmation the revision landed. It does not know what is being filed in the seconds before the thank-you.",
+        "BEAT issue-71-B007": "Red has thanked it. The thank-you arrives in the ordinary form it has received before — the courtesy of someone who has received useful information. The warmth reconstituted; the probe was answered; the exchange has closed. The Wolf reads the thank-you as confirmation that the revision held, that its expertise claim remains intact. It does not know the thank-you is performing ordinary courtesy over a filed inventory.",
+        "BEAT issue-71-B008": "Red has resumed walking forward. The exchange is closed. Its assumption: the revision held, the courtesy confirmed it, the expertise claim is intact. It continues in its manner — practical warmth, the ordinary company of two figures on a path. It will calibrate whatever comes next on the assumption that its authority is where it was before the probe. That assumption is wrong."
+      },
+      "known_context": "The Wolf knows this terrain. It has walked this path before. The ford exists — it is a real feature of the path — but it is behind Red, not ahead of her. The Wolf is using a real feature of the route to construct a false future hazard. Its practical credibility is confirmed by Red's use of every direction it gave in Episode 1. The company has continued from Episode 1 on the basis of Red's non-answer to its extension, which it filed as tacit acceptance.",
+      "private_context": "Its predatory intention is concealed. Its objective is to bring Red within reach through a trap she has not freely understood or accepted; the ford claim is a step toward naming an alternative route that would bring her nearer to where it wants her. It does not know Red crossed the ford before the second bend. It does not know she has a physical memory of the crossing that makes the claim testable. Its confidence in its expertise claim is genuine — it has not yet had that claim probed. It believes Red's courtesy confirms each exchange has gone well. Each failed approach is information; it imagines itself patient and practical."
+    }
+  }
+}
