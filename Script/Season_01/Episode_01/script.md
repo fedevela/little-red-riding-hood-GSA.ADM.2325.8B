@@ -184,3 +184,27 @@ Stays firm like this a good while, and once you've come through the straight and
 
 > *(RED: She keeps walking. The dry edge behind her. The straight ahead. Both things carried without ceremony, the way she has been carrying the wet shoe since Scene 1 — present, filed, not closed, going forward.)*
 <!-- SCENE issue-68 END -->
+
+## ACT 2 — Ground Already Given
+
+<!-- SCENE issue-69 BEGIN -->
+### SCENE 1 — THE OFFER OF COMPANY
+
+<!-- RESOLVES [BEAT issue-69-B001] -->
+
+<!-- RESOLVES [BEAT issue-69-B002] -->
+
+<!-- RESOLVES [BEAT issue-69-B003] -->
+
+<!-- RESOLVES [BEAT issue-69-B004] -->
+
+<!-- RESOLVES [BEAT issue-69-B005] -->
+
+<!-- RESOLVES [BEAT issue-69-B006] -->
+
+<!-- RESOLVES [BEAT issue-69-B007] -->
+
+<!-- RESOLVES [BEAT issue-69-B008] -->
+
+<!-- RESOLVES [BEAT issue-69-B009] -->
+<!-- SCENE issue-69 END -->
