@@ -101,19 +101,86 @@
 
 <!-- RESOLVES [BEAT issue-68-B001] -->
 
+> *(The left path opens into a section where the canopy stands higher and the trees are set further apart. Light falls in pools of direct sun interrupted by deeper shade. The path's centre-spine is packed firm; a soft depression runs along the right edge where water has collected. An elevated ridge of dry packed earth runs close to the left edge, catching the first pool of direct sun. A lean, dark-coated figure stands near that elevated edge, weight settled, head tilted toward the terrain — already present, occupying the position of a creature at ease in this stretch of wood.)*
+
+> *(RED: She slows her pace by a fraction — not a stop, not a pause anyone would name, just a slight gathering of attention as the canopy opens above her and the path's surface changes under her soles.)*
+
+> *(RED: Her eyes move to the figure near the elevated ridge — a second's clear look, not a stare, before her gaze returns to the path ahead.)*
+
+> *(RED: She shifts the basket slightly in her left hand, confirming the weight of it without looking down.)*
+
+> *(RED: She keeps her line on the firmer centre-spine of the path — not veering away from the figure, not angling toward the soft right edge either — and continues forward at a pace that is steady and purposeful, if not quite what it was.)*
+
 <!-- RESOLVES [BEAT issue-68-B002] -->
+
+> *(THE WOLF: It holds its position — weight settled on the dry ridge, head angled toward the packed earth ahead, neither turning toward the sound of her approach nor adjusting its posture to receive it.)*
+
+> *(THE WOLF: A slow shift of its weight from one hind leg to the other — the unhurried ease of a creature adjusting to a comfortable stillness, nothing more. Its gaze remains on the terrain.)*
+
+> *(THE WOLF: It does not turn its head as her footsteps reach the outer edge of easy conversation distance. The listening tilt of its muzzle stays directed at the path's surface — the posture of a creature attending to something already present, already known.)*
 
 <!-- RESOLVES [BEAT issue-68-B003] -->
 
+> *(Red has reached the stretch where the Wolf stands near the elevated dry edge. The two figures are now within easy speaking distance on the open path.)*
+
+> *(THE WOLF: Without turning its head toward her, it shifts its gaze along the elevated edge — the dry packed ridge catching the first pool of direct sun — as though taking stock of what the ground is doing.)*
+
+**THE WOLF**  
+Dry footing along this left edge, if you don't mind the roots.
+
+> *(THE WOLF: Its attention returns to the terrain ahead — the line delivered into the open air of the path, not held out for a response.)*
+
 <!-- RESOLVES [BEAT issue-68-B004] -->
+
+> *(RED: Her pace drops — not a stop, a narrowing of stride — as her attention moves to the elevated ridge on her left and the soft depression on her right.)*
+
+> *(RED: She steps left, the ball of her right foot finding the edge of the elevated ridge first — just the ball, weight still mostly back on the centre-spine, testing what the ground gives.)*
+
+> *(RED: Her weight shifts fully onto the ridge. She adjusts the basket in her left hand to keep it level, then continues forward on the dry packed earth, her stride settling back to its normal rhythm.)*
+
+**RED**  
+Yeah, that's — yeah. *(glancing briefly at the ridge underfoot)* Good call.
 
 <!-- RESOLVES [BEAT issue-68-B005] -->
 
+> *(THE WOLF: Its gaze moves along the path ahead — the long straight stretch visible from where it stands — as though reading what the ground reports.)*
+
+**THE WOLF**  
+Stays firm like this a good while, and once you've come through the straight and the birchwood fork opens on your right — that's the turning for the far houses — the canopy comes back down and the root-crossing wants a little care.
+
+> *(THE WOLF: It settles its weight back, gaze still on the terrain ahead, as though the sentence has already become part of the ground it was describing.)*
+
 <!-- RESOLVES [BEAT issue-68-B006] -->
+
+> *(RED: She continues forward on the dry ridge, pace unchanged, receiving the sentence in motion.)*
+
+> *(RED: Her left hand adjusts on the basket handle — a brief, fractional tightening, fingers finding the grip before any instruction reached them. The basket does not move. Her face does not change. Her stride does not break.)*
+
+> *(RED: Her weight keeps going forward. She does not turn her head toward the figure. The ridge is solid under her feet.)*
+
+> *(RED: She walks. The basket stays in her left hand, the grip settled back to ordinary, carrying its warmth forward.)*
 
 <!-- RESOLVES [BEAT issue-68-B007] -->
 
+> *(RED: She walks. The elevated ridge is firm under her feet. The next footfall comes, and the next.)*
+
+> *(RED: The basket stays in her left hand. The warmth of the bread is still there through the wrapping.)*
+
+> *(RED: She keeps walking. The light moves between sun and shade across her as the canopy gaps pass above her. Her pace is steady.)*
+
 <!-- RESOLVES [BEAT issue-68-B008] -->
 
+> *(THE WOLF: It watches her forward motion from the dry edge — still, weight settled, head at the same terrain-angled tilt it has held throughout.)*
+
+> *(THE WOLF: It remains at the dry edge — still, not following — watching her further down the path until the gaps in the canopy move their light across her back and she carries the basket forward into the long straight stretch.)*
+
 <!-- RESOLVES [BEAT issue-68-B009] -->
+
+> *(Red moves further down the left path. The brighter stretch near the dry edge recedes behind her. The long straight section opens ahead, the canopy remaining high and widely spaced, light continuing to fall in alternating pools and shade.)*
+
+> *(RED: She walks the long straight. The high canopy lets the light arrive in open pools. Her feet find the firmer ground without having to look for it now.)*
+
+> *(RED: Her left hand carries the basket. She does not check the contents. The warmth through the cloth is still there — real, ordinary, belonging to the errand.)*
+
+> *(RED: She keeps walking. The dry edge behind her. The straight ahead. Both things carried without ceremony, the way she has been carrying the wet shoe since Scene 1 — present, filed, not closed, going forward.)*
 <!-- SCENE issue-68 END -->
