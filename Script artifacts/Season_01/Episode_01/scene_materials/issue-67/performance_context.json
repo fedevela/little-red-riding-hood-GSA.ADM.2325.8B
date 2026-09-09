@@ -1,0 +1,68 @@
+{
+  "version": 3,
+  "issue": 67,
+  "scene_id": "issue-67",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT issue-67-B001",
+    "BEAT issue-67-B002",
+    "BEAT issue-67-B003",
+    "BEAT issue-67-B004",
+    "BEAT issue-67-B005"
+  ],
+  "sources": {
+    "bible": [
+      "bible/characters.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/dramatic_arcs.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md"
+    ],
+    "continuity": [
+      "Script artifacts/scene_materials/issue-67/preparation.md"
+    ],
+    "treatment": [
+      "Script artifacts/scene_materials/issue-67/preparation.md"
+    ],
+    "constraints": [
+      "Script artifacts/scene_materials/issue-67/preparation.md"
+    ],
+    "skeleton": [
+      "Script artifacts/scene_materials/issue-67/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [
+    "bible/world_rules.md",
+    "bible/theme.md"
+  ],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Red",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Red is alone on the woodland path early on an autumn morning, carrying a basket of provisions to her grandmother's house. The gate is behind her; the familiar open stretch gives way to the birch stand and then the older trees. No other character is present in this scene. She is carrying bread still faintly warm through its wrapping and, beneath it, a small jar of preserved plum she chose herself — grandmother's preference, her own selection. The errand is her own to carry. Her private voice runs freely; there is no audience to modulate for. The scene belongs entirely to her: her pleasure in the morning, her care for a specific person, her small unwitnessed satisfactions and recoveries. It closes when she is inside her own momentum at a fork she has committed to on thin evidence, with an unresolved sound behind her she has declined to let slow her down.",
+      "moment_contexts": {
+        "BEAT issue-67-B001": "Red is in motion on the open stretch between the garden gate and the birch stand. The gate has just caught behind her. She is moving well; the morning is early and clean. The basket is in her left hand — she can feel the bread's warmth through the wrapping, and beneath it the distinct cooler weight of the jar. Both are present in her hands before she has named them as thought. The first private satisfaction that surfaces is the jar: she chose it, not her mother, and grandmother will know she chose it. She stops briefly to adjust the cloth and confirm the jar has not shifted and the bread is still warm. The care is complete without an audience.",
+        "BEAT issue-67-B002": "Red is inside the birch stand, moving through its familiar strip pattern of light and shadow. The roots come up in configurations her body knows from memory; she navigates without consciously navigating. She is interested before she is cautious — the morning is genuinely worth attending to. Her private voice is in its most candid and expansive form: quick, particular, more opinionated than courtesy would allow before a listener. She shifts the basket from left hand to right. The birch light is giving way to the longer, quieter horizontals of the older trees.",
+        "BEAT issue-67-B003": "Red is among the older trees, basket in her right hand, attention partially ahead and partially inward. The heel seam of one shoe gives way without warning at the wet path edge — cold water finding the failure before she has processed anything. There is a beat of pure sensation — cold, specific, wrong — before her composure assembles. Then her private voice finds the ironic form that makes the indignity bearable without a witness: dry, fast, for no one in particular. She recovers quickly, adjusts the basket, and keeps walking. The wet shoe travels forward with her, unremarked upon again.",
+        "BEAT issue-67-B004": "The fork arrives in the older trees earlier than Red's mental map placed it. Two paths, both showing wear. The cloud cover has shifted; the horizontal light does not give a clean reading on the root patterns at the fork's mouth. The left path's mud shows churning at the edge — foot traffic or animal passage, neither interpretation settling the direction. Her direction-sense reads left, but the physical evidence is thin and genuine. She commits before the deliberation is complete: her stride lengthens into the left path, the basket migrates across her hands, her weight moves forward. The provisional quality of the commitment is filed without ceremony. After the committed stride, her register may recover slightly — a brief private note that the evidence was what it was and she used it.",
+        "BEAT issue-67-B005": "Red is walking the left fork, the fork now behind her. The older trees are close on either side; the ambient sits just short of silence. Before she has moved far from the fork, a sound arrives behind her — not birdsong, not the ordinary upper-branch creak, but something with weight: the specific character of mass redistributing, a branch settling under sustained pressure, wrong in its quality. She stops and turns. There is nothing to see. The ambient returns. She keeps walking. The private humor that accompanied Beat 3 does not arrive here; the space where a quip would normally close the moment does not produce one. The question does not close neatly enough for private irony. She cannot promise herself the sound was nothing — only that it is not going to slow her down."
+      },
+      "known_context": "Red is on the familiar woodland path to grandmother's house, carrying bread and a jar of preserved plum she selected herself. She knows the early landmarks by memory — the fallen beech, the step left of the known mud pool, the point where the path first goes soft. She knows she is moving well and the bread is still warm. She chose the jar because grandmother returns to preserved plum in autumn and early winter; this is her own knowledge, her own selection. She has no information about what, if anything, is in the woods ahead of her beyond the familiar landmarks.",
+      "private_context": "The small private pleasure in having chosen the jar specifically — not following instruction, but acting from knowledge of a particular person's preference — is the scene's first expression of her hidden wish to be trusted. The basket check in Beat 1 is care enacted for its own sake with no audience to confirm it. She is less certain of her terrain knowledge than her forward motion might suggest; the fork's early arrival and the thin evidence will activate the quiet belief she keeps close — that she should be able to manage the journey — and the uncommitted commitment will sit as a provisional quality she files rather than resolves. The sound at Beat 5 is the first thing in this scene she cannot make bearable with language; the silence where a quip would normally arrive is not performed solemnity but the specific quality of a moment that does not close. She carries both the unresolved fork commitment and the unresolved sound forward into Scene 2."
+    }
+  }
+}

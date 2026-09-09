@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "issue": 70,
+  "scene_id": "issue-70",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT issue-70-B001",
+    "BEAT issue-70-B002",
+    "BEAT issue-70-B003",
+    "BEAT issue-70-B004",
+    "BEAT issue-70-B005",
+    "BEAT issue-70-B006",
+    "BEAT issue-70-B007",
+    "BEAT issue-70-B008",
+    "BEAT issue-70-B009"
+  ],
+  "sources": {
+    "bible": [
+      "bible/characters.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/dramatic_arcs.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md"
+    ],
+    "continuity": [
+      "Script artifacts/scene_materials/issue-70/prior_performance.md"
+    ],
+    "treatment": [
+      "Script artifacts/scene_materials/issue-70/preparation.md"
+    ],
+    "constraints": [
+      "Script artifacts/scene_materials/issue-69/dramatic_action_brief.md"
+    ],
+    "skeleton": [
+      "Script artifacts/scene_materials/issue-70/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [
+    "bible/characters.md",
+    "bible/world_rules.md",
+    "bible/theme.md",
+    "bible/dramatic_arcs.md"
+  ],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Red",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Red has come through the birchwood fork using the direction the Wolf gave in Scene 3 — it proved accurate at every point. She is past the fork and on the path toward the far houses through the older-growth wood. The basket is in her left hand; the bread is cooler than warm-ish, not cold, the errand's clock running at its ordinary rate for the full length of the episode. She carries two unresolved private items: the birchwood inconsistency from Act 1 (the Wolf named her destination's turning before she had identified her route, registered as a fractional grip-tightening, never voiced, retaining the texture of something testable) and the endearment-and-cooling sequence from Scene 3 (the warmth returned after her refusal with fewer clauses and the endearment absent, registered as a rhythm change, not yet convertible to a statement). Neither has been spoken aloud. The terrain ahead presents a root-crossing cluster requiring active reading before weight is committed. This is Act 2, Scene 2 of Season 1, Episode 1 — the closing scene of Act 2.",
+      "moment_contexts": {
+        "BEAT issue-70-B001": "Red is in forward motion past the birchwood fork. The path continues through old-growth trees — trunks with presence, roots spreading into the path surface. A root-crossing cluster is visible ahead, its relative heights ambiguous from the approach angle. The flat autumn morning light gives the crossings their clearest surface reading. The basket is in her left hand. The Wolf is ahead or just beside the path at the root-cluster section, weight settled, without announcing its arrival.",
+        "BEAT issue-70-B002": "The Wolf is in proximity at speaking distance. The exchange has found a texture: something practical about the path's character past the fork, in the Wolf's ordinary competence-register. Nothing confrontational in the arrangement. The root-crossing section is visible ahead but not yet engaged. Red's humor is available, if quieter than it was at the gate.",
+        "BEAT issue-70-B003": "The root-crossing cluster presents itself: several large roots from different trees crossing the path's spine in close succession, their relative heights requiring a genuine read before weight is committed. Red arrives at it. She reads the surface before stepping — privately, efficiently, without announcement — and steps through. She does not know she is repeating the attentive gesture she gave the dry ridge in Scene 2.",
+        "BEAT issue-70-B004": "A sentence arrives from the Wolf in the same practical register as the exchange already in progress. It names what she does — not what she did at this moment, but the pattern: her attentiveness, the care she brings to what is in front of her. Her noticing. The sentence is brief, practically inflected, grounded in visible behavior. She cannot hold it at arm's length without denying the behavior it names.",
+        "BEAT issue-70-B005": "The observation has landed. It was accurate. She did those things. She does notice. She does check. She is holding the small new fact of having been accurately seen in something she has been quietly hoping someone would see without her having to ask. Her humor is briefly quieter — not absent, not gone, but the breath of it changes. Her feet are still reading the path. The basket is in her left hand.",
+        "BEAT issue-70-B006": "A statement arrives about what lies ahead on the path — future tense, in the same practical idiom as the observation — that places the Wolf in a continuation of the encounter she has not agreed to. She was not asked a question. The warmth from the observation is still present. Both things are happening simultaneously: she is still holding the genuine thing the observation named, and the statement is also there, sitting in the air. The accounting that would separate them in a form she could say aloud has not yet run its course.",
+        "BEAT issue-70-B007": "The statement is in the air. The moment when a clean refusal would have been easiest is present and then it is past. Somewhere private, while she was still deciding what the extension meant, she noticed the moment had passed and chose not to go back for it. The retroactive decision. She received a genuine thing and a presumptuous thing in the same breath, and she is carrying both without handing either back. She knows the extension is there.",
+        "BEAT issue-70-B008": "The encounter is closing or suspended. She is in motion or returning to motion. The basket is in her left hand. The extension is still there, unanswered, sitting in her private register alongside the birchwood inconsistency.",
+        "BEAT issue-70-B009": "She is back on the path in forward motion. The basket is in her left hand. The two inventory items are now distinct in kind: the birchwood inconsistency (evidentiary — a fact she could, in principle, return to as a question) and the extension (relational — a social presumption that took warmth as permission, with the texture of something she would have difficulty making legible to someone else). The bread is cooler than warm-ish. Grandmother's destination is where it has always been. She keeps walking. She keeps them both."
+      },
+      "known_context": "Red is on the path past the birchwood fork through the older-growth wood. The Wolf's Scene 3 direction proved accurate at every point; its practical credibility is unbroken. She has navigated the fork and is on the path toward the far houses. The basket is in her left hand; it has been there since the errand-hand reassignment at the close of Scene 3. The bread is cooler than warm-ish. The wet right shoe has been present since Act 1, Scene 1 and remains background. She carries two unresolved items: the birchwood inconsistency (testable, unfiled) and the endearment-and-cooling read from Scene 3 (atmospheric, not yet convertible to a statement).",
+      "private_context": "The thing her hidden objective aches to have recognized is her attentiveness — the care she brings to what is in front of her, the judgment she is actually exercising. Not her youth, not her courage, not her appearance — her noticing. She has been quietly hoping someone would see this without her having to ask to be seen. She cannot dismiss accurate recognition the way she can dismiss flattery, because flattery claims more than it can demonstrate and recognition demonstrates what it claims. She sometimes gives another person's confident explanation more time than her own unease. Her private candor runs ahead of what she discloses; her quick pivots and self-corrections are how she moves through uncertainty. Starting emotion: occupied rather than frightened; humor present, less room in it than at the gate; forward momentum intact; the errand's clock running."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "The Wolf is positioned past the birchwood fork in the older-growth wood, ahead or just beside the path where the root-cluster section begins. Scene 3 confirmed that Red can separate an offer's useful part from its terms. The Wolf enters this scene having filed that information; its revision is not a new strategy but a different instrument — less transactional, more observational. It has been watching for what to name. Its rebuilt warmth carries, barely audibly, the trace of the Scene 3 cooling; that trace is what makes the warmth in this scene more precisely aimed. The occasion for the observation it has been holding is now available: a root-crossing cluster ahead that will produce the same attentive gesture Red gave the dry ridge in Act 1, Scene 2. This is Act 2, Scene 2 of Season 1, Episode 1 — the closing scene of Act 2.",
+      "moment_contexts": {
+        "BEAT issue-70-B001": "Red has come through the birchwood fork using the direction it gave. She is on the path it knows. The root-crossing cluster ahead is terrain it is familiar with. It holds its position — weight settled, head at its listening tilt — without announcing its arrival. The occasion for the observation is approaching.",
+        "BEAT issue-70-B002": "Red is in proximity at speaking distance. The opening exchange finds its texture in the ordinary competence-register: something practical about the path's character past the fork, the terrain ahead, the ordinary material of two creatures on shared ground. Its manner is observational rather than instrumental. The watching does not announce itself.",
+        "BEAT issue-70-B003": "Red arrives at the root-crossing cluster and performs the attentive pause-and-read before committing weight. The Wolf has been positioned to see both this instance and the Act 1, Scene 2 dry-ridge instance. The pattern is now observable. It does not speak while the gesture is in progress — the observation can only land as reporting after the path has resumed its ordinary surface on the other side.",
+        "BEAT issue-70-B004": "The path has resumed. The exchange is still in motion. The second seeing of the gesture has made the first worth saying aloud. The observation is delivered mid-exchange, in the same practical register as the surrounding conversation — brief, practically inflected, naming the pattern rather than the moment, grounded in visible behavior, in the Wolf's Southern rural cadence. It arrives as reporting, not preparation.",
+        "BEAT issue-70-B005": "The observation has been received. The warmth is arriving — visible in a small change of breath or rhythm, a brief opening. The extension is available. The Wolf allows the warmth a moment to settle before placing the extension.",
+        "BEAT issue-70-B006": "The warmth has had its moment. The Wolf delivers the extension: a statement in the future tense about what lies ahead on the path, inside the warmth, placing itself in a continuation of the journey as a given. Not a question. Not an offer in the conventional sense. The extension arrives in the same practical idiom as the observation. After the extension, the Wolf does not move — it has arrived at the position its claim would occupy if she had accepted it, and it remains there.",
+        "BEAT issue-70-B007": "The extension was placed. She did not answer it directly. The moment when a clean refusal would have been available passed. The extension is still in the air, unanswered. The Wolf holds its position and its ease. Its private reading of the non-answer as tacit acceptance is already forming.",
+        "BEAT issue-70-B008": "The scene is at its closing interval. The Wolf holds its position. Its private accounting runs its filing: the warmth she accepted for the observation reads as more permission than she granted; her non-answer reads as tacit acceptance; Scene 3 and Scene 4 together confirm that the approach of accurate observation is effective and the relationship can absorb a refusal and recover. It cannot locate why the separation she made in Scene 3 does not mean what it means in its own framework.",
+        "BEAT issue-70-B009": "Red is walking forward on the path. The encounter is over or suspended. The Wolf remains where it was. Its quiet satisfaction — the ease of a creature that believes it has made ground — and Red's forward motion carrying two things she did not put down are both present in the closing image, without either character naming the gap between them."
+      },
+      "known_context": "The Wolf knows this section of the older-growth path past the birchwood fork. It knows the root-crossing cluster ahead. It has observed Red's attentive footing gesture twice: in Act 1, Scene 2 (the ball-of-foot test on the dry ridge) and again in this scene at the root-crossing cluster. Red accepted the Scene 3 direction and used it; its practical credibility is continuous. She can separate an offer's useful part from its terms — this is the learning Scene 3 established. The rebuilt warmth it brings to this scene is the same warmth returned after the Scene 3 cooling, more precisely aimed for having carried that trace.",
+      "private_context": "Predatory intention concealed beneath the appearance of observation and practical familiarity. The observation it has been holding since at least Act 1, Scene 2 is instrumental — it chose the timing (mid-exchange, after the second instance of the gesture) and the content (naming the pattern, not the moment) to make the sentence sound like reporting rather than preparation. The extension it places inside the warmth is not a question because the absence of a question is the absence of a natural opening for a refusal. Its most plausible defense — enthusiasm, warmth, the natural momentum of a generous creature — is assembled and waiting. Its constitutive error: it cannot imagine a will that would receive exactly what it offered and take only the part that was real. Starting emotion: the quiet ease of a creature that has completed its revision and arrived at the new instrument; rebuilt warmth, precisely aimed."
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "issue": 69,
+  "scene_id": "issue-69",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT issue-69-B001",
+    "BEAT issue-69-B002",
+    "BEAT issue-69-B003",
+    "BEAT issue-69-B004",
+    "BEAT issue-69-B005",
+    "BEAT issue-69-B006",
+    "BEAT issue-69-B007",
+    "BEAT issue-69-B008",
+    "BEAT issue-69-B009"
+  ],
+  "sources": {
+    "bible": [
+      "bible/characters.md",
+      "bible/world_rules.md",
+      "bible/theme.md",
+      "bible/dramatic_arcs.md",
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md"
+    ],
+    "continuity": [
+      "Script artifacts/scene_materials/issue-69/prior_performance.md"
+    ],
+    "treatment": [
+      "Script artifacts/scene_materials/issue-69/preparation.md"
+    ],
+    "constraints": [
+      "Script artifacts/scene_materials/issue-69/preparation.md"
+    ],
+    "skeleton": [
+      "Script artifacts/scene_materials/issue-69/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [
+    "bible/characters.md",
+    "bible/world_rules.md",
+    "bible/theme.md",
+    "bible/dramatic_arcs.md"
+  ],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Red",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "Red has come off the long straight section of the left path — the terrain described accurately by the Wolf at their first meeting — and is now in the closing stretch where the canopy has returned and the path gives her less to stand on. The birchwood fork is ahead but not yet visible. The basket is in her left hand; the bread is warm-ish, not warm. She carries two unresolved items from the prior scenes: the birchwood word (the Wolf named her destination's turning before she had identified her route) filed without a conclusion, and an unresolved sound from Scene 1 not repeated and not named. The quip-pattern has not operated for either of those. The Wolf appears on this stretch in the same kind of position it held in Scene 2 — the pattern of its re-presence unannounced and not yet named. This scene is Act 2, Scene 1 of Season 1, Episode 1.",
+      "moment_contexts": {
+        "BEAT issue-69-B001": "Red comes off the long straight and into the closing stretch. The canopy has returned; the path is ordinary packed earth with root-crossings and varying ground texture. The birch fork is ahead and not yet visible. The basket is in her left hand; the bread is warm-ish through the cloth. The terrain is giving her less than the straight did.",
+        "BEAT issue-69-B002": "Red sees the Wolf ahead on the path — the same lean dark figure in the same kind of easy, attentive stillness as Scene 2 — and her pace continues forward without break. Her left hand confirms the basket's weight. The pattern of coincidence (Wolf present in Scene 2, now here again) is present without being named.",
+        "BEAT issue-69-B003": "The Wolf and Red are at easy speaking distance. The Wolf delivers an offer that packages basket, company, and direction to the birchwood fork as a single gesture without seam. Inside the offer, a word passes through mid-clause at the hinge between a named terrain difficulty and the remedy the offer proposes — not as address, as punctuation.",
+        "BEAT issue-69-B004": "The word arrived inside the sentence and is already past. Red cannot receive it as address because it did not arrive as address. She cannot correct it because there is nothing to correct — the sentence was practical, the terrain was its subject, the warmth was incidental. She cannot be certain she is not imagining the permission it assumed. The quip does not form. Her left hand shifts on the basket handle.",
+        "BEAT issue-69-B005": "Red holds the fractional gap between receiving the offer and responding to it. The calculation is real: the direction she needs is inside the offer; a flat no risks foreclosing the practical information. She is choosing the refusal's shape — its reason, its surface — before the refusal lands. The basket moves in the gap.",
+        "BEAT issue-69-B006": "Red declines the company with a shaped reason that is true and sounds like the first reasonable thing she said. She accepts the direction. The basket stays in her hands. Her body has already partially turned toward the path the direction describes, even as the refusal is still in the air.",
+        "BEAT issue-69-B007": "The refusal has landed. Red attends to the Wolf's stillness in the interval between her last word and its next sentence. The Wolf has not moved toward the company it expected. The distance between them is the same distance.",
+        "BEAT issue-69-B008": "The Wolf's post-refusal sentence arrives: courteous, clipped, complete. Shorter rhythm. The warmth of competence is present; something else is not. Red catches the change the way a good ear catches a note that should be there and isn't — the rhythm arrives in the body before the semantic gap registers as the absence of a specific word.",
+        "BEAT issue-69-B009": "Red measures the sequence without naming it aloud: warmth, then company offered with a word inside it, then refusal, then the warmth returned one degree cooler. She files the fact: the warmth responded to the refusal. She keeps walking. The direction is in her body. The basket is in her hands. There is not yet a word for what she is also carrying."
+      },
+      "known_context": "Red is on the left path past the long straight, in terrain that is becoming less self-explanatory. The basket is in her left hand; it has been there since the fork. The bread is warm-ish, not warm. The birchwood fork is ahead without being visible from here. The terrain is giving her less than the straight did. The Wolf gave her accurate direction in Scene 2 and she followed it successfully through the long straight. She carries from Scene 2 a brief fractional grip-tightening she settled back to ordinary — the Wolf knew her destination's turning before she named her route.",
+      "private_context": "The quip-pattern has not operated since before the birchwood word; the fact hasn't closed into something she can hold at a small distance. She is still interesting-to-herself — curious, on the errand, not alarmed. The unresolved sound from Scene 1 and the birchwood word from Scene 2 sit as separate items without destinations. Her hidden wish is to arrive with her own account of the journey intact. She is less certain of her competence than she wants a stranger to see. She knows her home gave her courtesy as a value, and the expectation of returned courtesy can be exploited; she does not yet have the full accounting of what that costs here. Starting emotion: forward momentum intact; occupied attention; terrain giving her less; the errand's clock (warm-ish bread) running."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "The Wolf is on the closing stretch of the left path past the long straight, occupying a position that carries the impression of a creature already at ease here. It has one learning from Scene 2: Red can separate the useful part of an offer from its social terms. Its adjustment for this scene is the bundled offer — company and direction packaged without a seam, so that separating them costs her the practical information. The endearment is available mid-clause, at a hinge between named terrain difficulty and the offer that answers it, as warmth passing through without stopping the sentence. This scene is Act 2, Scene 1 of Season 1, Episode 1.",
+      "moment_contexts": {
+        "BEAT issue-69-B001": "The Wolf is positioned ahead on the closing stretch, weight settled, head at the listening tilt. Red is coming off the long straight; the terrain is giving her less. The basket is in her left hand; the bread has moved from warm to warm-ish. The Wolf has been waiting on this stretch.",
+        "BEAT issue-69-B002": "Red's approach is visible along the closing stretch. The Wolf holds its position — the same comfortable stillness that occupied the dry edge in Scene 2. It has registered her approach; it does not make a production of that registration.",
+        "BEAT issue-69-B003": "At easy speaking distance, the Wolf delivers the bundled offer: basket, company, and direction to the birchwood fork packaged as a single generous gesture. Company and direction travel together without a seam. The endearment enters mid-clause, at the hinge between a named terrain difficulty and the offer that answers it, as warmth passing through without stopping the sentence.",
+        "BEAT issue-69-B004": "The sentence continues and is already past the word. The endearment did not arrive as address. The sentence was practical in its purpose; the terrain was its subject. The Wolf's cadence is continuous; no pause, no change of register.",
+        "BEAT issue-69-B005": "Red has not answered immediately. The Wolf attends to the fractional gap between the offer's close and her response. The gap is real time.",
+        "BEAT issue-69-B006": "Red's refusal arrives with a shaped reason that is true and sounds like the first reasonable thing she said. She accepts the direction. The basket does not transfer. She has separated the useful part of the offer from its social terms — the same operation she performed in Scene 2. The bundling did not prevent the separation.",
+        "BEAT issue-69-B007": "The refusal has landed. The company the Wolf expected is not arriving. The distance between them is the same distance. The Wolf has not moved toward the company it expected. The post-refusal sentence is assembling.",
+        "BEAT issue-69-B008": "The Wolf delivers the post-refusal sentence: courteous, clipped, complete. It confirms the direction she accepted. Its warmth is the warmth of competence — practical, present, aimed at the path and whoever is walking it. The endearment is not in this sentence. The sentence did not need it. The sentence is already done.",
+        "BEAT issue-69-B009": "Red steps forward onto the path, the direction in her body, the basket in her hands. She accepted what she needed and declined what she would not accept. The separation was performed cleanly again. The learning costs patience and requires the next revision."
+      },
+      "known_context": "The Wolf knows this stretch of the left path. The basket's weight is real and has been real for the full length of Red's journey. The birchwood fork is ahead without being visible from here — directional information genuinely needed by a traveler at this point. Red accepted direction in Scene 2 and followed it successfully through the long straight. She can separate the useful part of an offer from its social terms. The bundled offer is the prepared approach: company and direction packaged without seam so the separation costs her the useful content.",
+      "private_context": "Predatory intention concealed beneath the appearance of practical help. The endearment's placement is deliberate — mid-clause, at a hinge, not as address — so that it claims an intimacy while foreclosing correction. The bundling was deliberately constructed because Scene 2 demonstrated she can separate useful from acceptable when they travel separately. The apparent favor of its attention has a price; it wants her company and closeness to follow from what it offers. Starting emotion: patient, appraising, comfortable in its terrain-knowledge; the offer is the prepared approach and its warmth has breathing room while the offer seems promising."
+    }
+  }
+}
