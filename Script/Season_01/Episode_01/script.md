@@ -318,19 +318,107 @@ Past the trunks the roots run across for about twenty paces, then the ground lev
 
 <!-- RESOLVES [BEAT issue-70-B001] -->
 
+> *(Past the birchwood fork the older wood receives the path. Trunks stand at irregular intervals, their roots spreading into the packed earth underfoot. The canopy has returned to its sheltering register after the fork's brief opening — flat autumn morning light lying in long horizontal planes across the path surface, not directing, just arriving. The root-crossing cluster is visible ahead, several large roots from different trees crossing the path's spine in close succession, their relative heights ambiguous from a distance. Old-tree quiet: birdsong diffuse in the canopy above, not close. The errand's clock has been running for the full length of the episode. The bread in the basket is past its warm-ish range — not cold, but the warmth is gone.)*
+
+> *(THE WOLF: Stands at the edge of the path where the first root crosses, weight settled back onto the haunches, neither blocking nor withdrawing — simply present the way the older trunks are present, without requiring acknowledgment. Head tilted at its habitual angle, the long muzzle angled slightly downward, attending to the path ahead and the approaching figure with the same quality of stillness it has held through every position in this episode.)*
+
+> *(THE WOLF: Does not shift weight toward her. Does not raise the head in greeting or alter the tilt of attention. The stillness is the same stillness it brought to this position — unhurried, unannounced. The rebuilt warmth is in the posture rather than any gesture: a creature that is at ease here, in this terrain, in this light.)*
+
+> *(THE WOLF: Watches her approach without the head-lift that would signal anticipation. The eyes follow the path, the moving figure, the basket's slight sway. The root-crossing cluster is ten yards ahead of her now. Waits.)*
+
+> *(RED: Keeps walking, pace steady, basket shifting slightly in her left hand as the path surface roughens under the older trees. Her eyes move to the root-crossing cluster ahead, reading the heights from the approach — the ambiguity is real, the nearest root the tallest or just the closest, she can't tell yet.)*
+
+> *(RED: Slows her pace slightly as the root-crossing cluster comes into clearer resolution — not stopping, just reading the path the way you read a sentence that's going somewhere unexpected. Her grip on the basket handle tightens a fraction, muscle memory more than decision.)*
+
+> *(RED: Reaches the first section of the root-crossing cluster — steps over the highest visible root with deliberate weight placement, testing the packed earth on the far side before committing, basket counterbalancing naturally. Does not look away from the path surface to look at the Wolf.)*
+
+**RED**  
+*(without quite looking up yet, voice landing somewhere between casual and careful)* You're back at the roots.
+
 <!-- RESOLVES [BEAT issue-70-B002] -->
+
+**THE WOLF**  
+Roots run thick through here. Old trees put their work down where they want it.
+
+> *(THE WOLF: Does not move from the position at the path's edge. The head tilts a degree toward her but the body stays settled, watching the way she reads the cluster — the weight test, the basket adjusting naturally. Unhurried.)*
+
+> *(RED: Steps carefully over the next root — a low one, easier than it looked from a distance — and pauses a half-second to read the cluster ahead, letting her eyes find the sequence before her feet commit to it.)*
+
+**RED**  
+They really do. *(a beat, something dry in it)* Very committed to their own project. Zero interest in the path.
+
+> *(RED: Shifts her gaze from the nearest root to the next crossing in the sequence, working it out — tallest one is the far one, she thinks, the near ones she can step over cleanly if she angles left slightly. Adjusts her line a degree without naming it aloud.)*
+
+**RED**  
+The bend-left part of your directions, the split birch — those all landed. *(not quite a thank-you, not quite the opposite; just the fact of it, offered into the ordinary air between them)* Everything was where you said it would be.
+
+**THE WOLF**  
+Path doesn't move around much. *(a pause, easy, no weight on it)* Tallest one's the far root. Angle holds you better than straight through.
+
+> *(THE WOLF: Lets the eyes move briefly to the cluster ahead — indicating without gesturing, the way you'd mention weather — then back to watching the path surface between them. Still settled. No lean toward her.)*
 
 <!-- RESOLVES [BEAT issue-70-B003] -->
 
+> *(The full root-crossing cluster presents itself. Several large roots from different trees cross the path's spine in close succession — the packed earth between them uneven, the relative heights requiring a genuine read before weight is committed. The flat autumn morning light catches the crossing surfaces from above, giving them their clearest definition from the approach angle. The ambiguity is not hidden; it simply requires looking.)*
+
+> *(RED: Stops at the cluster's edge. Eyes move across the sequence — not a sweep, an actual read: first root low and close, second one angled, the gap between them wider than it looks, third root the one that needs the weight held back before stepping over. The far root tallest, as she already knew. Morning light sitting flat across the surfaces, helpful. She takes it in before her feet decide anything.)*
+
+> *(RED: Shifts her weight back slightly onto her left heel, basket steady, and steps over the first root with the right foot — clears it cleanly, lets the ball of the foot find the earth between before the left follows. Gap between first and second: uneven, smaller than the path suggests it should be. She reads it on the way in, adjusts the stride length down without thinking about adjusting it.)*
+
+> *(RED: Second root: higher on the left side than the right, a tilt she hadn't clocked from further back. Steps over at the right where it's lower, basket counterweighting naturally as her body angles. Weight committed only after the leading foot reports back.)*
+
+> *(RED: Pauses the beat before the final root — not hesitation, just the same held weight while her eyes finish the read. Steps over with a longer reach than the others needed, clears it, lands on ordinary packed earth. The path resumes its even surface. She keeps walking.)*
+
 <!-- RESOLVES [BEAT issue-70-B004] -->
+
+> *(The path resumes its even surface past the root-crossing cluster. The older trees continue on both sides. The flat autumn morning light lies unchanged across the path ahead.)*
+
+**THE WOLF**  
+You look before you step. Not everyone bothers with that.
+
+> *(THE WOLF: Keeps pace beside her on the resuming path. The head does not turn toward her. The observation lands in the air between them the way the path detail did — without ceremony, without a pause manufactured to make it heard.)*
 
 <!-- RESOLVES [BEAT issue-70-B005] -->
 
+> *(RED: A small change in her stride — not a stumble, not a stop. Something settles fractionally, the way a held breath releases without becoming audible. Her eyes stay forward on the path.)*
+
+> *(RED: Her grip on the basket handle eases a fraction. Not dropping the basket — just the tension in the fingers, the small held-ness of them, going slightly loose.)*
+
+**RED**  
+*(a beat before answering, not performing the pause, just — it's there)* Seems like the kind of thing worth doing.
+
+> *(RED: Keeps walking. Her feet read the path ahead in the same quiet way — a low place in the packed earth, nothing requiring adjustment, still noted. She does not turn toward the Wolf.)*
+
 <!-- RESOLVES [BEAT issue-70-B006] -->
+
+**THE WOLF**  
+Path gets softer past the old growth. Good to have eyes on it that pay attention.
+
+> *(THE WOLF: Does not step toward her. Does not alter the pace or the angle of the head. Remains where the sentence has placed it — beside the continuation of the path, in the company the statement assumed. The stillness holds the claim without announcing it.)*
 
 <!-- RESOLVES [BEAT issue-70-B007] -->
 
+> *(RED: Her eyes move ahead to the path where the old growth begins to thin at the edge of her sight — the quality of light shifting there, the ground color changing toward the softer ground it mentioned. She looks at it the way she looked at the root-crossing: reading from a distance, before it's underfoot.)*
+
+**RED**  
+How much further does the old growth go?
+
+> *(RED: Keeps walking. The basket shifts in her left hand, the familiar weight of it. She does not look at the Wolf.)*
+
 <!-- RESOLVES [BEAT issue-70-B008] -->
 
+**THE WOLF**  
+Quarter mile, maybe a little more. Ground changes just past where the canopy starts thinning. You'll feel it before you see it — the earth gives a little different under the foot.
+
+> *(THE WOLF: Keeps pace. Holds the same position relative to her on the path — neither closer nor further, exactly where the extension placed it. The ease in the body is the ease of a creature that has not been refused. It has not been welcomed either, but the incomprehension runs in one direction only, and does not know it runs.)*
+
 <!-- RESOLVES [BEAT issue-70-B009] -->
+
+> *(RED: Keeps walking. The basket in her left hand — not adjusted, not checked. Just held. The weight of it the same weight it has been since the gate, familiar enough now that it takes no attention to carry.)*
+
+> *(RED: Her eyes move down the path ahead — the long visible stretch before the bend, the canopy beginning its far thinning, the light sitting flat and unhurried on the path surface. She reads it the way she has read every surface this morning: forward, before it's underfoot.)*
+
+> *(RED: She walks. The path continues. She keeps them both.)*
+
+> *(Red walks forward on the path. The older wood continues. The Wolf remains where it was. The flat autumn morning light lies unchanged across the path ahead, and the canopy begins its far thinning at the edge of sight. The act ends.)*
 <!-- SCENE issue-70 END -->
