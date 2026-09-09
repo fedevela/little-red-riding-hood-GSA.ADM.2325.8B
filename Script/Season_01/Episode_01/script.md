@@ -192,19 +192,123 @@ Stays firm like this a good while, and once you've come through the straight and
 
 <!-- RESOLVES [BEAT issue-69-B001] -->
 
+> *(The left path after the long straight. The high canopy of the open stretch gives way to something lower and closer — trees pressing in on both sides again, filtered shade replacing the alternating sun-pools of the straight. The path's spine is ordinary packed earth with occasional root-crossings; no pronounced dry ridge, just ground texture varying underfoot without announcing itself. Lighter intervals where the canopy gaps, but the acoustic has thickened slightly, birdsong finding more canopy surface to work with. The birchwood fork is ahead and not yet visible.)*
+
+> *(RED: She shifts her weight forward as the first root-crossing catches her toe — not a trip, just a reminder. She looks down briefly, then back up at the path ahead.)*
+
+> *(RED: Her left hand adjusts its grip on the basket handle, fingers curling tighter for a second against the familiar weight. The cloth over the top moves slightly with the motion.)*
+
+> *(RED: She picks her footing more carefully now, reading ahead a few steps instead of just walking. The packed earth is uneven in a quiet way, no single obstacle, just ground that doesn't guarantee anything.)*
+
+> *(RED: She doesn't stop walking. The thought arrives and she keeps moving, but her eyes sweep to the sides of the path for a moment, checking the tree line without committing to a reason.)*
+
+> *(RED: The canopy above her is closer, the filtered shade pressing down after the openness of the long straight. She can feel the acoustic change even if she doesn't name it — birdsong arriving from more directions, the path feeling less like a corridor and more like something she is moving through.)*
+
+> *(RED: She almost smiles at that — catches herself, half-smiles anyway, alone on the path.)*
+
+> *(RED: Another root-crossing. She steps over it cleanly this time, leading with her right foot, basket held steady at her side.)*
+
 <!-- RESOLVES [BEAT issue-69-B002] -->
+
+> *(Further along the closing stretch, ahead on the path where the filtered shade deepens between two older trees: a lean, dark shape. Weight settled, head at its listening tilt — the same quality of stillness that occupied the dry edge in Scene 2. It is simply there, the way a creature is there that belongs to the place it is standing in.)*
+
+> *(THE WOLF: Weight distributed between both haunches, the left foreleg bearing slightly more — not a pose held for an audience, just the ordinary ease of a body that has stood here before and found the ground agreeable. Head at its habitual tilt, angled toward the middle distance where the path bends into the thicker shade ahead. The ears are doing the real work. Her footfall has been audible since she came around the last root-crossing.)*
+
+> *(THE WOLF: Does not turn to receive her. The tilt of the head shifts just enough to indicate that the path ahead has been holding its attention, not the sound behind — a creature consulting the route, not watching for company.)*
+
+> *(THE WOLF: The tail settles lower, a small adjustment, the whole posture declaring that nothing about this stretch requires urgency. From here the path ahead closes between two older trunks before opening again — the Wolf knows what's on the other side of that narrowing; she does not.)*
+
+> *(RED: Her eyes land on it before her mind has finished deciding what it is — the lean dark shape, the quality of stillness between the two older trunks. Her stride does not break. Her foot comes down on the next step exactly where it would have.)*
+
+> *(RED: The basket handle presses into her palm as her fingers close around it — not a yank, not a jerk, just the hand finding the thing it is already holding and holding it more completely.)*
+
+> *(RED: She keeps walking. The distance between them is closing in the ordinary arithmetic of a path and she is doing nothing to change that arithmetic, which is either fine or it isn't.)*
+
+> *(RED: Her eyes trace the path surface ahead of the Wolf — the narrowing between the two trunks, the shade on the other side of it. She doesn't know what is on the other side. She notices that she doesn't know.)*
+
+> *(RED: She breathes in through her nose, short, controlled. The basket stays level. Her pace stays even. The space between her shoulder blades has changed in some way she is not going to name while she is still walking toward it.)*
+
+> *(RED: Another root-crossing beneath her right foot. She feels it without looking down this time, eyes staying on the path ahead, on the figure between the trees that has not turned and has not moved and is simply, again, there.)*
 
 <!-- RESOLVES [BEAT issue-69-B003] -->
 
+> *(The distance between them has closed to easy speaking distance. The Wolf's head turns — the first motion it has made toward her — a fraction, enough to take in the basket and the path behind her without making the turn a greeting.)*
+
+> *(THE WOLF: The head completes its turn — not a swivel, just the natural end of a motion already begun, the eyes settling on her and the basket in the same unhurried sweep. The body does not adjust to receive her; it remains as it was, weight easy, the posture of a creature that was already comfortable here before she arrived and remains so.)*
+
+**THE WOLF**  
+That's a fair weight you've been carrying since the gate, and the ground coming up past those two trunks roots across pretty steady — honey, if you'll let me walk it with you, I can bring you right to the birchwood fork without you guessing at a single turning.
+
+> *(THE WOLF: Holds the easy posture through the offer — no step toward her, no gesture reaching for the basket, just the unhurried attention of a creature that has already decided the path ahead and is not in any particular hurry to see whether she agrees.)*
+
 <!-- RESOLVES [BEAT issue-69-B004] -->
+
+> *(RED: The sentence is over. She is standing in the place it left behind, the offer still hanging in the filtered shade between the two trunks, and her left hand has shifted on the basket handle without her deciding to shift it.)*
+
+> *(RED: Her eyes go to the path surface for a half-second — the root-crossings past the two trunks, the shade on the other side — because the sentence gave her something practical and her attention is trying very hard to go there instead.)*
+
+> *(RED: The basket handle presses into the heel of her palm. She does not adjust the grip again. She leaves the pressure there.)*
+
+> *(RED: She looks at the Wolf — properly, a full look, the offer still between them — and something in the look is doing more than one thing at once: taking in the stillness, the ease of its posture, the absence of any reaching gesture toward the basket, the fact that the offer was practical and the terrain is real and none of that is wrong.)*
+
+> *(RED: She breathes out slowly through her nose. The offer is accurate. The fork is ahead and she doesn't know the turnings. That is a real thing. She lets the real thing take up the space in front of her while the other thing sits at the edge of it, unnamed, not dismissed, just — waiting somewhere she can come back to.)*
 
 <!-- RESOLVES [BEAT issue-69-B005] -->
 
+> *(RED: She transfers the basket from her left hand to her right — not a performance, just a weight that has been in the same hand since the fork and her palm is ready for a different surface. The left hand drops to her side, fingers loose.)*
+
+> *(RED: Her right hand settles the basket, checks the cloth over the top with a small press of her thumb. Still there. Still secure. She is aware of doing it and aware that it is also buying her three seconds.)*
+
+> *(RED: Her eyes go to the path past the two trunks again — genuinely, the way you look at a thing you are about to have to navigate — and when she brings them back to the Wolf her face has settled into something that is not exactly a smile but is not closed off either. She is finding the shape of the answer in the looking.)*
+
+> *(RED: She shifts her weight slightly forward, the beginning of a step that hasn't committed yet. The basket rests in her right hand. She has the shape of what she is going to say, and the shape is polite, and the shape is honest, and the shape leaves the direction as the one thing she still needs from this.)*
+
 <!-- RESOLVES [BEAT issue-69-B006] -->
+
+**RED**  
+Thank you — genuinely. But I'm nearly there, and I'd rather arrive having found the way myself. That matters to me. *(a small pause, honest rather than apologetic)* If you could just tell me what the path does past those two trunks — where the fork actually becomes visible — that would be more than enough.
+
+> *(RED: Her right hand holds the basket steady at her side. Her left hand stays loose. Nothing in her posture invites a counter-offer; her face is open, which is different from being available to persuasion.)*
+
+> *(RED: She listens to the direction with the part of her that is already moving: the root-crossings past the trunks, the way the path bends before the fork becomes visible, which way the fork opens. Each piece lands in her legs before it fully reaches her head.)*
+
+> *(RED: Her weight has already shifted — not a step, just the heel lifting slightly, the body's first private vote — toward the path past the two trunks before the direction has finished arriving. She does not announce it. She just is slightly more forward than she was.)*
+
+**RED**  
+That helps. Thank you.
+
+> *(RED: She meets the Wolf's eyes once more — briefly, enough to be a courtesy and not enough to be an invitation — and then her gaze goes ahead, to the path between the two trunks, to the ground she now knows something about.)*
 
 <!-- RESOLVES [BEAT issue-69-B007] -->
 
+> *(THE WOLF: Nothing moves. The weight stays where it was — left foreleg, both haunches, the same distribution it held before the offer was made. The head does not follow her gaze to the path ahead. The ears do.)*
+
+> *(THE WOLF: A single breath, slow, the ribcage expanding without announcement. The tail has not moved. The posture has not changed. From a distance it would look like patience. It is not quite patience.)*
+
+> *(THE WOLF: The jaw closes fractionally — not a clench, just a small settling, the mouth finding a position that does not require it to be doing anything. The eyes stay on the point where she is standing, which is the same point she was standing in before the offer, which is not where the offer placed her.)*
+
+> *(THE WOLF: The head tilts a degree — not toward her, just a small shift, the kind of motion a body makes when it is revising something privately. The easy posture remains, but the ease is now the posture's claim about itself rather than its content.)*
+
 <!-- RESOLVES [BEAT issue-69-B008] -->
 
+> *(THE WOLF: The eyes move from her to the path past the two trunks — a practical redirect, the gaze of a creature orienting a traveler toward a route rather than toward itself.)*
+
+**THE WOLF**  
+Past the trunks the roots run across for about twenty paces, then the ground levels. Path bends left — stay with the bend, don't take the deer run that goes straight. Fork opens up right after the big split birch on your right. You'll see the white bark before you see the branching.
+
+> *(THE WOLF: The gaze returns to her once, briefly, at the close of it — confirmation, not invitation. Then settles back to the middle distance. The sentence is already behind it.)*
+
 <!-- RESOLVES [BEAT issue-69-B009] -->
+
+> *(RED: She receives the sequence: roots for twenty paces, ground levels, bend left, stay with the bend, deer run goes straight — don't take it — split birch on the right, white bark before the branching. Each element settles into her body in the order it will arrive underfoot.)*
+
+> *(RED: She does not name the difference aloud. She stands with it for one breath in her own private register — the full sequence present, not as an accusation, just as the thing her ear caught and her body is processing.)*
+
+> *(RED: She shifts the basket from her right hand back to her left — the familiar hand, the errand hand, the hand that has been carrying it since the fork — and the weight settles back where it belongs. The bracket closes.)*
+
+> *(RED: She steps forward. The path past the two trunks meets her feet exactly as described — the first root-crossing arrives at the promised distance, and something in her chest does a small quiet thing that is not quite relief and not quite satisfaction but is adjacent to both.)*
+
+> *(RED: She does not look back. Her eyes are ahead, reading the ground, and she is still interesting to herself — the errand, the warm-ish bread, the white bark that will appear before the branching — and underneath that, two unresolved items in her inventory, separate and unfiled, carried alongside the basket like weight she has not yet decided how to set down.)*
+
+> *(Red passes between the two trunks and onto the path beyond. The roots arrive at the promised distance. The Wolf remains where it was, at the same distance, in the same position. The ambient holds — birdsong, canopy, path texture underfoot — unchanged by everything that happened inside it.)*
 <!-- SCENE issue-69 END -->
