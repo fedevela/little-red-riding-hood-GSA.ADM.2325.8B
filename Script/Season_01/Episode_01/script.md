@@ -95,3 +95,25 @@
 
 > *(RED: She turns forward. She tightens her grip on the basket — not checking the contents this time, just holding — and keeps walking. Her pace does not slow. The left path continues ahead of her and she is on it.)*
 <!-- SCENE issue-67 END -->
+
+<!-- SCENE issue-68 BEGIN -->
+### SCENE 2 — THE FIRST MEETING
+
+<!-- RESOLVES [BEAT issue-68-B001] -->
+
+<!-- RESOLVES [BEAT issue-68-B002] -->
+
+<!-- RESOLVES [BEAT issue-68-B003] -->
+
+<!-- RESOLVES [BEAT issue-68-B004] -->
+
+<!-- RESOLVES [BEAT issue-68-B005] -->
+
+<!-- RESOLVES [BEAT issue-68-B006] -->
+
+<!-- RESOLVES [BEAT issue-68-B007] -->
+
+<!-- RESOLVES [BEAT issue-68-B008] -->
+
+<!-- RESOLVES [BEAT issue-68-B009] -->
+<!-- SCENE issue-68 END -->

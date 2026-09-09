@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "issue": 68,
+  "scene_id": "issue-68",
+  "manuscript_path": "Script/Season_01/Episode_01/script.md",
+  "required_moment_ids": [
+    "BEAT issue-68-B001",
+    "BEAT issue-68-B002",
+    "BEAT issue-68-B003",
+    "BEAT issue-68-B004",
+    "BEAT issue-68-B005",
+    "BEAT issue-68-B006",
+    "BEAT issue-68-B007",
+    "BEAT issue-68-B008",
+    "BEAT issue-68-B009"
+  ],
+  "sources": {
+    "bible": [
+      "bible/characters/little_red_riding_hood/objective.md",
+      "bible/characters/little_red_riding_hood/hidden_objective.md",
+      "bible/characters/little_red_riding_hood/conflict_with_self.md",
+      "bible/characters/little_red_riding_hood/conflict_with_others.md",
+      "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+      "bible/characters/little_red_riding_hood/line_of_thought.md",
+      "bible/characters/little_red_riding_hood/line_of_images.md",
+      "bible/characters/wolf/objective.md",
+      "bible/characters/wolf/hidden_objective.md",
+      "bible/characters/wolf/conflict_with_self.md",
+      "bible/characters/wolf/conflict_with_others.md",
+      "bible/characters/wolf/conflict_with_environment.md",
+      "bible/characters/wolf/line_of_thought.md",
+      "bible/characters/wolf/line_of_images.md",
+      "bible/dramatic_arcs.md",
+      "bible/world_rules.md"
+    ],
+    "continuity": [
+      "Script artifacts/scene_materials/issue-68/prior_performance.md",
+      "Script artifacts/scene_materials/issue-67/dramatic_action_brief.md"
+    ],
+    "treatment": [
+      "Script artifacts/scene_materials/issue-68/preparation.md"
+    ],
+    "constraints": [
+      "Script artifacts/scene_materials/issue-68/preparation.md"
+    ],
+    "skeleton": [
+      "Script artifacts/scene_materials/issue-68/scene_skeleton.md"
+    ]
+  },
+  "actor_safe_bible_paths": [
+    "bible/world_rules.md",
+    "bible/dramatic_arcs.md"
+  ],
+  "characters": {
+    "little_red_riding_hood": {
+      "display_name": "Red",
+      "persona_paths": [
+        "bible/characters/little_red_riding_hood/objective.md",
+        "bible/characters/little_red_riding_hood/hidden_objective.md",
+        "bible/characters/little_red_riding_hood/conflict_with_others.md",
+        "bible/characters/little_red_riding_hood/conflict_with_self.md",
+        "bible/characters/little_red_riding_hood/conflict_with_environment.md",
+        "bible/characters/little_red_riding_hood/line_of_thought.md",
+        "bible/characters/little_red_riding_hood/line_of_images.md"
+      ],
+      "scene_context": "This is the second scene of Season 1, Episode 1. Red is further down the left path from the fork she chose in Scene 1 on thin evidence. She carries the basket in her left hand — bread still warm through the wrapping, jar cooler beneath. Her right shoe has had a failed heel seam since the older-tree stumble in Scene 1; the wet shoe is a background fact she has filed without ceremony. She committed to the left path before her deliberation was complete, and the stride carrying that provisional quality is still in her body. She is also carrying an unresolved sound from Scene 1's close — a branch settling under sustained pressure behind her, wrong in its interval, nothing visible when she turned — filed and not closed. The path character has changed: the canopy is higher and more widely spaced, light arrives in pools of direct sun interrupted by deeper shade, the acoustic is more open. She is arriving into a stretch where a lean, dark-coated figure is already present near an elevated dry edge on the left side of the path. The errand continues; the warmth of the bread is still real in her hands.",
+      "moment_contexts": {
+        "BEAT issue-68-B001": "Red enters the changed ground of this section — firmer centre-spine underfoot, more open canopy, brighter intermittent light. The packed earth is a physical fact her feet register before she names it. The elevated dry edge catches the first pool of direct sun ahead and to the left. The Wolf's dark coat is visible in or near that brighter stretch, already present before she arrives. Both things she is carrying from Scene 1 — the provisional fork commitment and the unresolved sound — travel with her without ceremony.",
+        "BEAT issue-68-B002": "The dark-coated figure near the dry edge is still and weight-settled, head tilted toward the terrain, not turning toward her footsteps. It occupies the position of something native to this stretch rather than something that has arrived for her. She is approaching it; it is already there.",
+        "BEAT issue-68-B003": "The Wolf speaks first, from where it already stands. The line is brief and addressed to the terrain and the path rather than specifically to her — a practical observation about the dry footing along the elevated edge. No endearment, no compliment, no question. The warmth in it is the warmth of practical competence.",
+        "BEAT issue-68-B004": "She tests the advice before following it: a small reduction in pace, a careful first step onto the elevated dry edge, weight shifting only after the ground responds. The ridge is solid and dry. She commits her weight to it and continues. An optional brief acknowledgment may arise from her natural register; the practical terms of the exchange are established through the physical test and its result.",
+        "BEAT issue-68-B005": "The Wolf speaks again in its established leisurely cadence — a full sentence naming what comes after the long straight stretch ahead. The sentence is genuinely practical; its main clause is something she can act on. Inside the sentence's grammatical middle, sheltered in an embedded subordinate clause, the Wolf names the birchwood fork as the correct turning toward grandmother's side of the wood. She has mentioned grandmother. She has mentioned provisions. She has not said which side of the wood grandmother's home occupies. The birchwood side is in fact the correct turning — she knows this. But she did not say so.",
+        "BEAT issue-68-B006": "The basket is in her left hand. The useful sentence arrives at her ears while she is walking; she receives it in motion. Inside the sentence's flow, the wrong word passes. Her grip on the basket handle adjusts — fractional, brief, incomplete. Not the care-grip from Scene 1 Beat 1 (habitual, completed, belonging to care). Not the recovery-grip from Scene 1 Beat 3 (post-lurch check). Not the hold-grip from Scene 1 Beat 5 (not checking, just holding). A fourth quality: arrested-attention, a hand adjusting before the mind has assembled the cause. Her face does not change. Her weight continues forward. She does not turn. She does not ask.",
+        "BEAT issue-68-B007": "The sentence is complete. The useful direction and the wrong word sit in her ear together. In Scene 1 the pattern was established: private ironic recovery following small difficulty — the wet shoe (Beat 3), the fork's ambiguity (Beat 4). Scene 1's Beat 5 broke that pattern once, at an environmental and open occasion (the unresolved sound). Now the wrong word offers the same occasion again — a mismatch — and the closing form does not come. The subject has not resolved into something irony can turn. She keeps walking. The next thing that happens is her forward motion.",
+        "BEAT issue-68-B008": "The exchange is complete in its external form. Red is walking forward past the Wolf's position. She carries both unresolved items: the sound from Scene 1 (environmental, open, unexplained) and the birchwood word from this exchange (social, specific, not yet assembled into a conclusion). The Wolf is behind her now.",
+        "BEAT issue-68-B009": "Red is further down the left path. The Wolf's position is behind her. Both items are present in her — the unresolved sound and the birchwood word — distinct in kind and neither named as an alarm yet. The basket is in her left hand. The bread is still warm through the cloth. The errand continues. She is still on the left path the Wolf's sentence described; the navigation and the inconsistency arrived in the same sentence."
+      },
+      "known_context": "Red is carrying provisions to grandmother's house. She knows grandmother's house is on the birchwood side of the wood. She has not told anyone this on the path. She chose the left fork in Scene 1 on thin evidence and is carrying that provisional quality. Her right shoe heel seam failed in Scene 1; wet sock, background fact. She heard an unresolved sound behind her at Scene 1's close — filed, not closed. She is on the left path, further from the fork than the sound. The basket is in her left hand; the bread is warm.",
+      "private_context": "She is less certain of her competence than she wants to show. The fork decision was provisional and she knows it. The unresolved sound is present in her without being performed. When the wrong word arrives in the Wolf's sentence, it lands in her body before she has analysis for it. She is filing the mismatch — the Wolf named the birchwood side correctly, and she knows she did not say which side — but the chain has not yet assembled into a conclusion she can name. She keeps the unease private while deciding what it means. She wants to carry her own account of this journey home intact. Her humor is available when a subject has closed enough to be turned; the wrong word has not closed yet."
+    },
+    "wolf": {
+      "display_name": "The Wolf",
+      "persona_paths": [
+        "bible/characters/wolf/objective.md",
+        "bible/characters/wolf/hidden_objective.md",
+        "bible/characters/wolf/conflict_with_others.md",
+        "bible/characters/wolf/conflict_with_self.md",
+        "bible/characters/wolf/conflict_with_environment.md",
+        "bible/characters/wolf/line_of_thought.md",
+        "bible/characters/wolf/line_of_images.md"
+      ],
+      "scene_context": "This is the second scene of Season 1, Episode 1. The Wolf is near the elevated dry edge of the path — a section further down the left path from the fork, where the canopy is higher and more widely spaced and light arrives in intermittent pools of direct sun. It has been standing here before Red arrives; it is already present when she comes through from the older-tree shade. Its presence in this stretch is not an arrival; it is the settled position of a creature at ease in its own territory. It knows the dry footing, the character of the path ahead, the birchwood fork's position, and Red's destination. Its opening is practical and its first impression will be made through the usefulness of what it offers.",
+      "moment_contexts": {
+        "BEAT issue-68-B001": "Red is approaching from the older-tree shade, not yet in this section. Her footsteps are not yet in the open acoustic of this stretch. The Wolf is already present near the elevated dry edge, weight settled, head tilted toward terrain. The encounter has not yet opened.",
+        "BEAT issue-68-B002": "Red's footsteps are arriving from the older-tree section — audible in the open acoustic at distance. Her approach, pace, basket, and posture are available as observable data. The wet shoe is visible before she is close; the basket is in her left hand. The Wolf holds its position, head toward terrain, weight settled and still. It is already here; she is arriving into its space.",
+        "BEAT issue-68-B003": "Red has arrived into this stretch. The Wolf speaks first from where it already stands — the line addressed to the terrain and whoever is on the path, not specifically to her. A practical observation about the dry footing along the elevated edge. Brief, accurate, warm in the way practical competence is warm before intimacy has been built. No endearment, no compliment, no question, no request for acknowledgment. The line completes and the Wolf returns its attention to the terrain.",
+        "BEAT issue-68-B004": "Red slows slightly and steps left toward the elevated dry edge, testing the advice before following it. The first step is careful; the weight shifts only after the ground responds. The ridge is solid and dry. She commits her weight to it and continues. From the Wolf's position, this reads as competence checking a claim — ordinary attentiveness, not visible distrust.",
+        "BEAT issue-68-B005": "Red has tested and followed the advice; the exchange is on practical terms. The Wolf speaks again in its established leisurely cadence. The sentence is genuinely useful — a practical direction about what comes after the long straight stretch ahead. Inside the sentence's grammatical middle, sheltered in an embedded subordinate clause, the birchwood fork arrives as the correct turning toward grandmother's side of the wood. The sentence continues past it. The sentence was constructed from ease and habit, from genuine familiarity with this territory, not from careful tracking of what Red had and had not disclosed. The slip is the cost of ease.",
+        "BEAT issue-68-B006": "Red is walking forward, the sentence complete in her ears, the basket in her left hand. From the Wolf's position — attention on her face and forward motion — her grip shift reads as the ordinary management of weight in a hand that has been carrying something for some distance. Her face does not change. Her weight continues forward. She does not turn or ask.",
+        "BEAT issue-68-B007": "Red walks forward. The sentence is complete. Her pace continues without change in footfall rhythm. From the Wolf's observable position, the exchange has ended on ordinary terms — nothing in her external register announces disturbance.",
+        "BEAT issue-68-B008": "Red is continuing forward past the Wolf's position. The exchange proceeded on practical terms; the advice was accurate; no visible suspicion appeared in Red's face. The Wolf's attention has been on her face and forward motion. Something in the quality of her forward motion — a fractional caught quality in a person who has been moving fluidly — may register in its private attention. It cannot be certain what she attended to. The grip shift, from its angle of observation, does not separate from ordinary weight management. What it does or does not privately acknowledge belongs to its own register. It remains at the dry edge; it does not call after her or follow.",
+        "BEAT issue-68-B009": "Red is further down the left path, the brighter stretch near the dry edge receding behind her. The exchange is over in its external form. The Wolf remains near the dry edge, watching her forward motion until she is further down the path."
+      },
+      "known_context": "The Wolf knows this stretch of path, its dry footing, and the geography ahead including the long straight stretch and the birchwood fork's position relative to grandmother's destination. It knows Red is taking provisions to grandmother. It knows grandmother's house is on the birchwood side. It does not know this from what Red disclosed on the path; the knowledge precedes this encounter. Its opening was practical and genuine — the advice was accurate — and the exchange proceeded on practical terms.",
+      "private_context": "Its predatory intention and prior knowledge of Red's destination are concealed through the posture of ease and the practical register of the exchange. The slip in the useful sentence was the cost of ease — constructed from genuine comfort and habit rather than careful tracking of what Red had and had not said. Its confidence at this stage is genuine: the advice was useful, the exchange was ordinary, no visible suspicion appeared in Red's face. Whether she caught the wrong word is not established from the outside. What it privately acknowledges, how it frames what it observed, and whether the self-excusing mechanism arrives belong to its own authorship in this beat."
+    }
+  }
+}
